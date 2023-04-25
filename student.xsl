@@ -13,13 +13,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				</tr>
 				<xsl:for-each select="student">
 					
-					</xsl:for-each>
+					
 				<tr>
 					<td><xsl:value-of select ="firstname"/></td>
 					<td><xsl:value-of select ="lastname"/></td>
 					<td><xsl:value-of select ="nickname"/></td>
 					</tr>
-				</table>
+				</xsl:for-each>
+					</table>
 			</body>
 		
 		</html>
