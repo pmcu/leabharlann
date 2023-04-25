@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<html>
 		<body>
 			<h2>Student</h2>
-			<table border = 1>
+			<table border = "1">
 				<tr bgcolor="lightgreen">
 					<th>First Name</th>
 					<th>Last Name</th>
