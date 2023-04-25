@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
 	<xsl:for-each select="leabhar/R/caib[@n='1']">
     <tr>
-      <td><xsl:value-of select="Leath"/></td>
+      <td><xsl:value-of select="@value"/></td>
  
     </tr>
     </xsl:for-each>
