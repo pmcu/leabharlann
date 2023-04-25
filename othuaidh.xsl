@@ -13,11 +13,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr bgcolor="#9acd32">
       <th>Ábhar</th>
     </tr>
-		<xsl:for-each select="leabhar/R/caib">
+		<xsl:for-each select="leabhar/R/caib/Leath">
+			
     <tr>
       <td><xsl:value-of select="Leath"/></td>
     </tr>
-    </xsl:for-each>
+    	</xsl:for-each>
+
   </table>
   </body>
   </html>
