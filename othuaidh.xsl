@@ -2,6 +2,9 @@
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
+	<xsl:apply-templates/>
+</xsl:template>
+<xsl:template match="leabhar/R">	
   <html>
     <head>
       <title>Leabhar</title>
@@ -13,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr bgcolor="#9acd32">
       <th>Ábhar</th>
     </tr>
-		<xsl:for-each select="leabhar/R/caib/leath">
+		<xsl:for-each select="caib/leath">
 			
     <tr>
       <td><xsl:value-of select="@value"/></td>
