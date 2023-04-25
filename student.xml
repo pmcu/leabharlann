@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href="student.xsl"?>
+<class>
+<student>
+	<firstname>Graham</firstname>
+	<lastname>Bell</lastname>
+	<nickname>Gurry</nickname>
+	</student>
+<student>
+	<firstname>Albert</firstname>
+	<lastname>Anstang</lastname>
+	<nickname>Alby</nickname>
+	</student>	
+<student>
+	<firstname>Tadhg</firstname>
+	<lastname>Mac Aoidh</lastname>
+	<nickname>Tadhg-tóin</nickname>
+	</student>	
+	
+	
+		
+</class>
