@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"? encoding="UTF-8">
 <?xml-stylesheet type = "text/xsl" href="student.xsl"?>
 <class>
 <student>
@@ -14,7 +14,7 @@
 <student>
 	<firstname>Tadhg</firstname>
 	<lastname>Mac Aoidh</lastname>
-	<nickname>Tadhg-tóin</nickname>
+	<nickname>Tadhg-tÃ³in</nickname>
 	</student>	
 	
 	
