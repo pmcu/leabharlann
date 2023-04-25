@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr bgcolor="#9acd32">
       <th>Ábhar</th>
     </tr>
-		<xsl:for-each select="caib/leath">
+		<xsl:for-each select="caib/Leath">
 			
     <tr>
       <td><xsl:value-of select="@value"/></td>
