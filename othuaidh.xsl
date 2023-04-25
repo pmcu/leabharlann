@@ -4,7 +4,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 	<xsl:apply-templates/>
 </xsl:template>
-<xsl:template match="leabhar/R">	
+<xsl:template match="R">	
   <html>
     <head>
       <title>Leabhar</title>
