@@ -25,7 +25,7 @@ function loadDoc() {
       myFunction(this);
     }
   };
-  xhttp.open("GET", "othuaidh.xml", true);
+  xhttp.open("GET", "othuaidh_simp.xml", true);
   xhttp.send();
 }
 function myFunction(xml) {
@@ -35,10 +35,8 @@ function myFunction(xml) {
   var x = xmlDoc.getElementsByTagName("leabhar");
   for (i = 0; i <x.length; i++) {
     table += "<tr><td>" +
-    x[i].getElementsByTagName("teideal")[0].childNodes[0].nodeValue +
-    "</td><td>" +
     x[i].getElementsByTagName("leath")[0].childNodes[0].nodeValue +
-    "</td></tr>";
+    "</td><td>";
   }
   document.getElementById("demo").innerHTML = table;
 }
