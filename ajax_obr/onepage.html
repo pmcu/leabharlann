@@ -6,7 +6,7 @@
     <p>Enter page number</p>
     <input id="userInput" type="text" placeholder="Text">
     <button onclick="returnText()">Submit</button>
-  <!-- Optional JavaScript -->
+<script src="script.js"></script>
 
     </script>
     
@@ -25,10 +25,7 @@ xhttp.send();
 
 function myFunction(xml) {
     var xmlDoc = xml.responseXML;
-<script>
- function returnText(){
-    let i = document.getElementById("userInput").value;
-}   
+  
 
     var x;
     x = xmlDoc.getElementsByTagName("leath")[i].childNodes[0];
