@@ -13,7 +13,7 @@ function myFunction(xml) {
 
     var x;
     const input = document.getElementById('input');
-    i = input;
+    i = 4;
     x = xmlDoc.getElementsByTagName("leath")[i].childNodes[0];
     document.getElementById("demo1").innerHTML = x.nodeValue;
 i=i+1;
