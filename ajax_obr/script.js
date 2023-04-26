@@ -1,4 +1,17 @@
-function returnText(){
-    let input = document.getElementById("userInput").value;
-    document.getElementById.innerHTML = input;
-} 
+const input = document.getElementById('input');
+const output = document.getElementById('output');
+const writeBtn = document.getElementById('writeBtn');
+const readBtn = document.getElementById('readBtn');
+
+writeBtn.addEventListener('click', () => {
+
+    let val = input.value;
+    output.innerHTML = val;
+
+});
+
+readBtn.addEventListener('click', () => {
+
+    let content = output.innerHTML;
+    console.log(content); 
+});
