@@ -12,6 +12,7 @@
     
 <p id="demo1"></p>
 <p id="demo2"></p>
+    <p id="lift">Lift</p>
 
 <script>
 var xhttp = new XMLHttpRequest();
@@ -28,6 +29,8 @@ function myFunction(xml) {
   
 
     var x;
+    var i;
+    i = document.getElementById("lift");
     x = xmlDoc.getElementsByTagName("leath")[i].childNodes[0];
     document.getElementById("demo1").innerHTML = x.nodeValue;
 i=i+1;
