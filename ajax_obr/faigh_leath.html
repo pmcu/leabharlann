@@ -22,7 +22,7 @@ function myFunction(xml) {
     txt = "";
     x = xmlDoc.getElementsByTagName("leath");
     for (i = 0; i < x.length; i++) { 
-        txt += x[i].childNodes[0].nodeValue + "<h2>Leathanach</h2>"+ c + "<br><hr>";
+        txt += x[i].childNodes[0].nodeValue + "<h2>Leathanach</h2><br><hr>";
         c+=c;
     }
     document.getElementById("demo").innerHTML = txt;
