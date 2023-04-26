@@ -9,4 +9,5 @@ writeBtn.addEventListener('click', () => {
     output.innerHTML = val;
 
 });
+function myFunction(xml);
 
