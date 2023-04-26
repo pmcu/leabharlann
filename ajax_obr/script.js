@@ -1,4 +1,4 @@
 function returnText(){
     let input = document.getElementById("userInput").value;
-    document.getElementById = input;
+    document.getElementById.innerHTML = input;
 } 
