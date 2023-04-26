@@ -32,12 +32,12 @@ function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Caibidil</th><th>Leath</th></tr>";
-  var x = xmlDoc.getElementsByTagName("leabhar");
+  var x = xmlDoc.getElementsByTagName("caib");
   for (i = 0; i <x.length; i++) {
     table += "<tr><td>" +
-    x[i].getElementsByTagName("caib")[0].childNodes[0].nodeValue +
-    "</td><td>" +
     x[i].getElementsByTagName("teideal")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("leath")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
