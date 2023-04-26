@@ -16,12 +16,14 @@ xhttp.open("GET", "othuaidh_simp.xml", true);
 xhttp.send();
 
 function myFunction(xml) {
+    var c =1;
     var x, i, txt, xmlDoc; 
     xmlDoc = xml.responseXML;
     txt = "";
     x = xmlDoc.getElementsByTagName("leath");
     for (i = 0; i < x.length; i++) { 
-        txt += x[i].childNodes[0].nodeValue + "<h2>Leathanach</h2><br><hr>";
+        txt += x[i].childNodes[0].nodeValue + "<h2>Leathanach + c </h2><br><hr>";
+        c+=c;
     }
     document.getElementById("demo").innerHTML = txt;
 }
