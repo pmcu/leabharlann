@@ -10,8 +10,3 @@ writeBtn.addEventListener('click', () => {
 
 });
 
-readBtn.addEventListener('click', () => {
-
-    let content = output.innerHTML;
-    console.log(content); 
-});
