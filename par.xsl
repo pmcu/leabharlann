@@ -14,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Paragraf</th>
      
     </tr>
-    <xsl:for-each select="leabhar">
+    <xsl:for-each select="leabhar/par">
     <tr>
       <td><xsl:value-of select="par"/></td>
   
