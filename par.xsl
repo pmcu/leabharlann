@@ -12,12 +12,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <table border="1">
     <tr bgcolor="#9acd32">
       <th>Paragraf</th>
-    
+     
     </tr>
     <xsl:for-each select="leabhar">
     <tr>
       <td><xsl:value-of select="par"/></td>
-
+  
     </tr>
     </xsl:for-each>
   </table>
