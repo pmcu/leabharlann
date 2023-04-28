@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
     <xsl:for-each select="leabhar/par">
     <tr>
-      <td><xsl:value-of select="par"/></td>
+      <td><xsl:value-of select="*"/></td>
   
     </tr>
     </xsl:for-each>
