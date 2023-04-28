@@ -1,4 +1,6 @@
 table, td, th{
+font-size:14px;
+font-family: Verdana;
 border: 1px solid;
 padding: 10px;
 }
