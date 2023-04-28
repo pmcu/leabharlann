@@ -1,4 +1,5 @@
 <leabhar ainm="Ó Thuaidh" nod="LM032" bliain="1983" udar="Pádraig Ua Maoileoin">
+ <?xml-stylesheet type="text/xsl" href="par.xsl"?>
 <par id="1" caibidil="Caib i" leathanach="L i">
 #L i
 </par>
