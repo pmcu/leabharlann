@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/xsl" href="par.xsl"?>
+<leabharlann>
 <leabhar ainm="Ó Thuaidh" nod="LM032" bliain="1983" udar="Pádraig Ua Maoileoin">
 <par id="1" caibidil="Caib i" leathanach="L i">
 #L i
@@ -5336,3 +5337,4 @@ Ar Leithéidí Arís
 Fonn a níos Fiach
 </par>
 </leabhar>
+</leabharlann>
