@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
     <head>
       <title>Leabhar</title>
-      <link rel="stylesheet" href="table.css"/>
+      <link rel="stylesheet" href="leabhar.css"/>
 </head>
   <body>
   <h2>Leabhar</h2>
