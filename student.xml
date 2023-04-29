@@ -2,21 +2,18 @@
 <?xml-stylesheet type = "text/xsl" href="student.xsl"?>
 <class>
 <student>
-	<firstname>Graham</firstname>
+	<firstname country="uk">Graham</firstname>
 	<lastname>Bell</lastname>
 	<nickname>Gurry</nickname>
 	</student>
 <student>
-	<firstname>Albert</firstname>
+	<firstname country="us">Albert</firstname>
 	<lastname>Anstang</lastname>
 	<nickname>Alby</nickname>
 	</student>	
 <student>
-	<firstname>Tadhg</firstname>
+	<firstname country="ie">Tadhg</firstname>
 	<lastname>Mac Aoidh</lastname>
 	<nickname>Tadhg-tóin</nickname>
-	</student>	
-	
-	
-		
+</student>	
 </class>
