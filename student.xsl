@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
     <xsl:for-each select="class/student">
     <tr>
-      <td><xsl:value-of select="firstname[text()='Tadhg']"/></td>
+      <td><xsl:value-of select="firstname"/></td>
       <td><xsl:value-of select="lastname"/></td>
       <td><xsl:value-of select="nickname"/></td>
     </tr>
