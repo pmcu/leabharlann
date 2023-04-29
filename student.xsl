@@ -13,7 +13,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Nickname</th>
     </tr>
     <xsl:for-each select="class/student">
-      <xsl:if test="price &gt; 10">
+      <xsl:if test="firstname = 'Tadhg'">
         <tr>
           <td><xsl:value-of select="firstname"/></td>
           <td><xsl:value-of select="lastname"/></td>
