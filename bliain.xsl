@@ -15,6 +15,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Teideal</th>
       <th>Próiseáil</th>
     </tr>
+    <h2><span>Form Input</span></h2>
+    <article class-"regular">
+      <h3>Text box</h3>
+      <label for="tbuser">Username</label>
+      <input type="text" id="tbuser" placeholder="Enter Username" maxlength="10">
+      
+      
+      </articl>
     <xsl:for-each select="leabharlann/leabhar">
     <xsl:if test="bl_prl='2006'">
       <tr>
