@@ -20,7 +20,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <h3>Text box</h3>
       <label for="tbuser">Username</label>
       <input type="text" id="tbuser" placeholder="Enter Username" maxlength="10">
-        <input type="button" value="click me">
+        <input type="button" id="btn1" value="click me">
+          <p class="output" id="output1"></p>
       
       
       </articl>
@@ -34,6 +35,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       </xsl:if>
     </xsl:for-each>
   </table>
+      <script>
+      const tx1 = document.getElementById('tbuser');
+      const but1 = document.getElementById('btn1');
+      const out1 = document.getElementById('output1');
+        function fun1(){
+        out1.innerHTML = txt1.value;
+        }
+        btn1.addEventListener('click', fun1);
+      </script>
   </body>
   </html>
 </xsl:template>
