@@ -20,6 +20,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <h3>Text box</h3>
       <label for="tbuser">Username</label>
       <input type="text" id="tbuser" placeholder="Enter Username" maxlength="10">
+        <input type="button" value="click me">
       
       
       </articl>
