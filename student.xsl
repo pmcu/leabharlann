@@ -1,21 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
- xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
- <xsl:output omit-xml-declaration="yes" indent="yes"/>
- <xsl:strip-space elements="*"/>
-<html>
- <body>
-  <h1>Students</h1>
- <xsl:template match="student[starts-with(file,'/abc/kk')]">
-  <tr><xsl:apply-templates/></tr>
- </xsl:template>
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
- <xsl:template match="student/*">
-     <p><xsl:apply-templates/></p>
- </xsl:template>
- </body>
- </html>
- <xsl:template match="student"/>    
-</xsl:stylesheet>
+<xsl:template match="/">
+  <html>
+  <body>
+  <h2>The Students</h2>
+  <table border="1">
+    <tr bgcolor="#9acd32">
+      <th>Name</th>
+      <th>Surname</th>
+      <th>Nickname</th>
+    </tr>
+    <xsl:for-each select="class/student">
+      <xsl:if test="price &gt; 10">
+        <tr>
+          <td><xsl:value-of select="firstname"/></td>
+          <td><xsl:value-of select="lastname"/></td>
+          <td><xsl:value-of select="nickname"/></td>
+        </tr>
+      </xsl:if>
+    </xsl:for-each>
+  </table>
+  </body>
+  </html>
+</xsl:template>
 
-
-
+</xsl:stylesheet> 
