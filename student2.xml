@@ -1,0 +1,27 @@
+<college>
+    <student>
+        <name>amit</name>
+        <file>/abc/kk/final.c</file>
+        <rollno>22</rollno>
+    </student>
+    <student>
+        <name>sumit</name>
+        <file>/abc/kk/up.h</file>
+        <rollno>23</rollno>
+    </student>
+    <student>
+        <name>nikhil</name>
+        <file>/xyz/up.cpp</file>
+        <rollno>24</rollno>
+    </student>
+    <student>
+        <name>bharat</name>
+        <file>/abc/kk/down.h</file>
+        <rollno>25</rollno>
+    </student>
+    <student>
+        <name>ajay</name>
+        <file>/simple/st.h</file>
+        <rollno>27</rollno>
+    </student>
+</college>
