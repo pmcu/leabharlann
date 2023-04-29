@@ -1,0 +1,8613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<leabharlann>
+<leabhar id="1">
+<nod>A006</nod>
+<teideal>Céimseata Scoile III agus IV</teideal>
+<bf>1934</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="2">
+<nod>A007</nod>
+<teideal>Céimseata Scoile I agus II</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="3">
+<nod>A008</nod>
+<teideal>Tús na Céimseatan - Leabhar a hAon</teideal>
+<bf>1923</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="4">
+<nod>A009</nod>
+<teideal>Ealaíontóirí agus Cumadóirí Cáiliúla</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="5">
+<nod>A016</nod>
+<teideal>Tigheas</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="6">
+<nod>A017</nod>
+<teideal>Cócaireacht</teideal>
+<bf>1942</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="7">
+<nod>A018</nod>
+<teideal>Réim na Réalt</teideal>
+<bf>1948</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="8">
+<nod>A024</nod>
+<teideal>Stair na Gréige, Cuid 1-3</teideal>
+<bf>1954</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="9">
+<nod>A026</nod>
+<teideal>Bíobla Naofa, An (An Sean-Tiomna)</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="10">
+<nod>A026a</nod>
+<teideal>Bíobla Naofa, An (Tiomna Nua)</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="11">
+<nod>A027</nod>
+<teideal>Tír-Eoluíocht na h-Éireann</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="12">
+<nod>A030</nod>
+<teideal>Obair Níocháin</teideal>
+<bf>1958</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="13">
+<nod>A031</nod>
+<teideal>Geograif don Ghaedheal Óg.  Cuid a trí, Roinn a haon</teideal>
+<bf>1948</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="14">
+<nod>A032</nod>
+<teideal>Saol in Éirinn, An</teideal>
+<bf>1976</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="15">
+<nod>A033</nod>
+<teideal>Ceiltigh agus Normannaigh</teideal>
+<bf>1978</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="16">
+<nod>A034</nod>
+<teideal>Eoraip agus an Domhan 1300-1763 - 1, An</teideal>
+<bf>1974</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="17">
+<nod>A035</nod>
+<teideal>Éire sa Nua-Aois</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="18">
+<nod>A036</nod>
+<teideal>Eoraip agus an Domhan 1763-1960 - 2, An</teideal>
+<bf>1977</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="19">
+<nod>A037</nod>
+<teideal>Concas &amp; Coilíniú</teideal>
+<bf>1976</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="20">
+<nod>A038</nod>
+<teideal>Stair na hÉireann 1</teideal>
+<bf>1934</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="21">
+<nod>A039</nod>
+<teideal>Stair na hÉireann 2</teideal>
+<bf>1934</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="22">
+<nod>A043</nod>
+<teideal>Próscheapadóireacht na Laidne</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="23">
+<nod>A046</nod>
+<teideal>Ainmhí ó Lascaux go Picasso, An t-</teideal>
+<bf>1980</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="24">
+<nod>A048</nod>
+<teideal>Mhaicreacnamaíocht, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="25">
+<nod>A049</nod>
+<teideal>Conarthaí ag bunú na gComhphobal Eorpach</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="26">
+<nod>A051</nod>
+<teideal>Fuinneamh, An</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="27">
+<nod>A052</nod>
+<teideal>Tíreolaíocht na Meánteistiméireachta</teideal>
+<bf>1979</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="28">
+<nod>A053</nod>
+<teideal>Leabhar na nUrnaí Coitinne arna chur amach do Chumann Gaelach na hEaglaise</teideal>
+<bf>1965</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="29">
+<nod>A054</nod>
+<teideal>Leabhar Aifrinn, An</teideal>
+<bf>1958</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="30">
+<nod>A055</nod>
+<teideal>Staidéar ar Fhótagraif Gheografacha</teideal>
+<bf>1975</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="31">
+<nod>A059</nod>
+<teideal>Eolaíocht ón Tús 3, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="32">
+<nod>A060</nod>
+<teideal>Ar Thóir na Tíreolaíochta 1</teideal>
+<bf>1979</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="33">
+<nod>A061</nod>
+<teideal>Buneolas ar Léamh Léarscáileanna</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="34">
+<nod>A062</nod>
+<teideal>Tíreolaíocht Réigiúnach</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="35">
+<nod>A063</nod>
+<teideal>Eolaíocht ón Tús 4, An</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="36">
+<nod>A068</nod>
+<teideal>Seo Agat Matamaitic 2</teideal>
+<bf>1977</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="37">
+<nod>A069</nod>
+<teideal>Seo Agat Matamaitic 3</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="38">
+<nod>A071</nod>
+<teideal>Beathaí Phlútairc</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="39">
+<nod>A072</nod>
+<teideal>Talmhaíocht agus an Beartas Talmhaíochta sa Chomhphobal Eorpach, An</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="40">
+<nod>A073</nod>
+<teideal>Coimriú ar na Seirbhísí Soisialta Árachais agus Cúnaimh</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="41">
+<nod>A074</nod>
+<teideal>Maoin Aiceanta an Domhain 1</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="42">
+<nod>A075</nod>
+<teideal>Maoin Aiceanta an Domhain 2 - Nótaí do mhúinteoirí</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="43">
+<nod>A076</nod>
+<teideal>Maoin Aiceanta an Domhain 3 - Nótaí do mhúinteoirí</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="44">
+<nod>A077</nod>
+<teideal>Mhicreacnamaíocht, An</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="45">
+<nod>A078</nod>
+<teideal>Bonn agus Forsgreamh na hÉireann</teideal>
+<bf>1941</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="46">
+<nod>A080</nod>
+<teideal>Grógánach agus an Peiréad, An</teideal>
+<bf>1944</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="47">
+<nod>A083</nod>
+<teideal>Feardorcha Truaillidhe</teideal>
+<bf>1933</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="48">
+<nod>A084</nod>
+<teideal>Livias: Leabhar XXVI</teideal>
+<bf>1975</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="49">
+<nod>A085</nod>
+<teideal>Acht um Bhun Reacht Shaorstáit Éireann</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="50">
+<nod>A086</nod>
+<teideal>De Amicitia</teideal>
+<bf>1945</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="51">
+<nod>A087</nod>
+<teideal>Graiméar Gréigise II</teideal>
+<bf>1942</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="52">
+<nod>A088</nod>
+<teideal>Prométheus Fé Chuibhreach</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="53">
+<nod>A090</nod>
+<teideal>Cicearó: Pro Archia Poeta</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="54">
+<nod>A091</nod>
+<teideal>Aenéis Bhirgil, leabhar a dó</teideal>
+<bf>1942</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="55">
+<nod>A093</nod>
+<teideal>Seoda na hÉireann</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="56">
+<nod>A094</nod>
+<teideal>Foras Feasa ar Stair na Rómha</teideal>
+<bf>1956</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="57">
+<nod>A095</nod>
+<teideal>Leabhar Cheanannais</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="58">
+<nod>A098</nod>
+<teideal>Féachaimis ar Phictiúir Thíreolaíochta</teideal>
+<bf>1974</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="59">
+<nod>A099</nod>
+<teideal>Ar Thóir na Tíreolaíochta 2</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="60">
+<nod>A100</nod>
+<teideal>Tíreolaíocht na hArdteistiméireachta</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="61">
+<nod>A101</nod>
+<teideal>Tíreolaíocht Chórasach na hÉireann</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="62">
+<nod>A102</nod>
+<teideal>Rialacha agus Clár do Leith Meánscoileanna 1978 / 79</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="63">
+<nod>A103</nod>
+<teideal>Leabhar Aifrinn Rómhánach, An</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="64">
+<nod>A104</nod>
+<teideal>Líníocht Mheicniúil</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="65">
+<nod>A105</nod>
+<teideal>Líníocht Mheicniúil don Mheánteistiméireacht</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="66">
+<nod>A106</nod>
+<teideal>Nua-Thíreolaíocht 1</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="67">
+<nod>A107</nod>
+<teideal>Nua-Thíreolaíocht 3</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="68">
+<nod>A108</nod>
+<teideal>Maintíneacht</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="69">
+<nod>A110</nod>
+<teideal>Ón nGorta Anall - Éire 1850-1969</teideal>
+<bf>1982</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="70">
+<nod>A112</nod>
+<teideal>Sé Ghlúin Éireannacha : Cúrsaí an tSaoil in Éirinn 1790 - 1970</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="71">
+<nod>A113</nod>
+<teideal>Inár Scoileanna : frámaíochta do churaclam agus do mheasúnú</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="72">
+<nod>A116</nod>
+<teideal>Fás na Tionsclaíochta sa Naoú Céad Déag</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="73">
+<nod>A117</nod>
+<teideal>Crosáidí, Na</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="74">
+<nod>A118</nod>
+<teideal>Hannibal</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="75">
+<nod>A119</nod>
+<teideal>Airciméidéas</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="76">
+<nod>A120</nod>
+<teideal>Stair Bheo 3, An</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="77">
+<nod>A122</nod>
+<teideal>Stair Bheo 1, An</teideal>
+<bf>1976</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="78">
+<nod>A124</nod>
+<teideal>Teagasc Críostuidhe Mhaighe Nuadhat</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="79">
+<nod>A125</nod>
+<teideal>Ar Lorg na Staire 1: An Chianaimsir</teideal>
+<bf>1977</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="80">
+<nod>A126</nod>
+<teideal>Ar Lorg na Staire 2: Bunús ár gCultúir</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="81">
+<nod>A127</nod>
+<teideal>Ar Lorg na Staire 3: Ionradh agus Plandáil 1169-1691</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="82">
+<nod>A129</nod>
+<teideal>Stair Bheo 4, An</teideal>
+<bf>1979</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="83">
+<nod>A130</nod>
+<teideal>Seo Agat Matamaitic 5</teideal>
+<bf>1985</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="84">
+<nod>A131</nod>
+<teideal>Seo Agat Matamaitic 6</teideal>
+<bf>1985</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="85">
+<nod>A138</nod>
+<teideal>Croí Naofa agus An tSagartacht, An</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="86">
+<nod>A148</nod>
+<teideal>Dlí Coiriúil na hÉireann</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="87">
+<nod>A149</nod>
+<teideal>Dlí na Fianaise in Éirinn</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="88">
+<nod>A150</nod>
+<teideal>Longa</teideal>
+<bf>1980</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="89">
+<nod>A156</nod>
+<teideal>Scol-chúrsa i Sláinteachas</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="90">
+<nod>A157</nod>
+<teideal>Nua-Thíreolaíocht 2</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="91">
+<nod>A158</nod>
+<teideal>Tíreolaíocht Iarbhunscoile 1</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="92">
+<nod>A160</nod>
+<teideal>Bunús Geograife</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="93">
+<nod>A167</nod>
+<teideal>Bitheolaíocht : An Chláir Nua Don Mheanteistiméireacht</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="94">
+<nod>A170</nod>
+<teideal>Ealaín Éireannach ó 1600 i Leith</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="95">
+<nod>A171</nod>
+<teideal>Dealbhóireacht Éireannach ó 1600 i Leith</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="96">
+<nod>A175</nod>
+<teideal>Tíreolaíocht Bunscoile 1</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="97">
+<nod>A177</nod>
+<teideal>Tíreolaíocht Bhunscoile 3</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="98">
+<nod>A178</nod>
+<teideal>Coiméide Dhiaga Dante</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="99">
+<nod>A184</nod>
+<teideal>Tús na Geograife</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="100">
+<nod>A185</nod>
+<teideal>Ghaeilge agus an Dlí - Tuarascáil, An</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="101">
+<nod>A186</nod>
+<teideal>Riail ár Naomh-Athar Beiniadhacht</teideal>
+<bf>1958</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="102">
+<nod>A187</nod>
+<teideal>Mion-mhíniú ar an dTeagasg Críostaidhe</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="103">
+<nod>A188</nod>
+<teideal>Tígheas agus Cócaireacht</teideal>
+<bf>1924</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="104">
+<nod>A189</nod>
+<teideal>Gnás na nEaslán</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="105">
+<nod>A190</nod>
+<teideal>Críost an Uile</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="106">
+<nod>A191</nod>
+<teideal>Bunreacht na hÉireann</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="107">
+<nod>A192</nod>
+<teideal>Gnáthrialacha Maidir le Soláthar</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="108">
+<nod>A193</nod>
+<teideal>Coillte Teoranta - Annual Report and Accounts 1989</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="109">
+<nod>A194</nod>
+<teideal>Teagasc Críostaighe, An</teideal>
+<bf>1920</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="110">
+<nod>A195</nod>
+<teideal>Rialacha agus Clár do Leith Meánscoileanna 1987 / 88</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="111">
+<nod>A196</nod>
+<teideal>Eacnamaíocht Bhaile na hArdteistiméireachta - Eolaíoch agus Sóisialta, Cuid 1</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="112">
+<nod>A197</nod>
+<teideal>Teagasc Críostaidhe, An</teideal>
+<bf>1948</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="113">
+<nod>A198</nod>
+<teideal>Tíreolaíocht Shocheacnamaíoch</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="114">
+<nod>A201</nod>
+<teideal>Breith Báis ar Eagnuidhe</teideal>
+<bf>1929</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="115">
+<nod>A202</nod>
+<teideal>Oidhreacht Ghleann Cholm Cille</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="116">
+<nod>A203</nod>
+<teideal>Liotúirge Naofa - Bunreacht &amp; Motu Proprio, An</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="117">
+<nod>A204</nod>
+<teideal>Mhaighdean Ghlórmhár, An</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="118">
+<nod>A205</nod>
+<teideal>Seo Apartheid</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="119">
+<nod>A206</nod>
+<teideal>Eachtra Pheadair Schlemihl</teideal>
+<bf>1909</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="120">
+<nod>A207</nod>
+<teideal>Finnsgéalta na h-Araibe Cuid 1</teideal>
+<bf>1908</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="121">
+<nod>A208</nod>
+<teideal>Leabhar na nIongantas</teideal>
+<bf>1949</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="122">
+<nod>A209</nod>
+<teideal>Rubáiiát Omár Caiiám Ó Naíseapúr</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="123">
+<nod>A210</nod>
+<teideal>Scéalta a Filí na Rómha - Sraith 2</teideal>
+<bf>1933</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="124">
+<nod>A211</nod>
+<teideal>Leabhar Geograiphe</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="125">
+<nod>A212</nod>
+<teideal>Dánta Naomh Eoin na Croise</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="126">
+<nod>A213</nod>
+<teideal>Talfasg</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="127">
+<nod>A215</nod>
+<teideal>Don Juan nó An Lé le Céimseatan</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="128">
+<nod>A216</nod>
+<teideal>Béar, An</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="129">
+<nod>A217</nod>
+<teideal>Cluichíní ón Iasacht - Oireachtas 1920</teideal>
+<bf>1920</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="130">
+<nod>A218</nod>
+<teideal>Byzantium - Filíocht W.B. Yeats</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="131">
+<nod>A221</nod>
+<teideal>Scéalta Sealgaire</teideal>
+<bf>1954</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="132">
+<nod>A232</nod>
+<teideal>Fíon Franncach</teideal>
+<bf>1955</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="133">
+<nod>A233</nod>
+<teideal>Dílse na nGael don Aifreann</teideal>
+<bf>1957</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="134">
+<nod>A235</nod>
+<teideal>Scéalamhráin Cheilteacha</teideal>
+<bf>1985</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="135">
+<nod>A237a</nod>
+<teideal>Tiomna Nua ár dTighearna agus Ár Slánuigteora</teideal>
+<bf>1951</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="136">
+<nod>A237b</nod>
+<teideal>Tiomna Nua ár dTighearna agus Ár Slánuigteora</teideal>
+<bf>1951</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="137">
+<nod>A237c</nod>
+<teideal>Tiomna Nua ár dTighearna agus Ár Slánuigteora</teideal>
+<bf>1951</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="138">
+<nod>A237d</nod>
+<teideal>Tiomna Nua ár dTighearna agus Ár Slánuigteora</teideal>
+<bf>1951</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="139">
+<nod>A237e</nod>
+<teideal>Tiomna Nua ár dTighearna agus Ár Slánuigteora</teideal>
+<bf>1951</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="140">
+<nod>A240</nod>
+<teideal>Beatha Íosa Críost</teideal>
+<bf>1929</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="141">
+<nod>A251</nod>
+<teideal>Lochlannaigh, Na</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="142">
+<nod>A252</nod>
+<teideal>Banc Ceannais na hÉireann</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="143">
+<nod>A253</nod>
+<teideal>Bithiúnach ar Iarraidh</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="144">
+<nod>A255</nod>
+<teideal>Ceiltigh, Na</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="145">
+<nod>A256</nod>
+<teideal>Eolaíocht, Páipéir Shamplacha Gnáthleibhéal agus Ardleibhéal, An</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="146">
+<nod>A258</nod>
+<teideal>Céimeanna sa Stair 4</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="147">
+<nod>A259</nod>
+<teideal>Luathealaín na hÉireann</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="148">
+<nod>A264</nod>
+<teideal>Fianaise na Staire 3</teideal>
+<bf>1992</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="149">
+<nod>A267</nod>
+<teideal>Incigh, Na h-</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="150">
+<nod>A268</nod>
+<teideal>Iontais an tSeansaoil</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="151">
+<nod>A269</nod>
+<teideal>Leathchéad Péintéir Éireannach</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="152">
+<nod>A270</nod>
+<teideal>Madraí</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="153">
+<nod>A272</nod>
+<teideal>Ríocht na Súl:  Spreagadh Súl Stair agus Meas na hEalaíne don Ardteistiméireacht</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="154">
+<nod>A278</nod>
+<teideal>Téacs agus Trialacha 2, An Mhatamaitic : An tSraith Shóisearach Siollabas A</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="155">
+<nod>A283</nod>
+<teideal>Téacs agus Trialacha C, An Mhatamaitic</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="156">
+<nod>A284</nod>
+<teideal>Turas Scoile, An</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="157">
+<nod>A288</nod>
+<teideal>Cúrsaí Gnó : Cleachtaí</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="158">
+<nod>A289</nod>
+<teideal>Taoiseach Deireannach na nGaedheal</teideal>
+<bf>1938</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="159">
+<nod>A290</nod>
+<teideal>Órain Ghaoil:  Amhráin Ghrá</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="160">
+<nod>A291</nod>
+<teideal>Ag Troid ar Son na Saoirse</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="161">
+<nod>A293a</nod>
+<teideal>Seo Apartheid : Trácht agus Pictiúir</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="162">
+<nod>A294</nod>
+<teideal>Skálda</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="163">
+<nod>A295</nod>
+<teideal>Urnaighe na Maidne de réir úsáide Eaglaise na hÉireann</teideal>
+<bf>1912</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="164">
+<nod>A296</nod>
+<teideal>Ging de Leamhán a Scoilteas Leamhán</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="165">
+<nod>A298</nod>
+<teideal>Leabhar Beag Cócaireachta Éireannach</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="166">
+<nod>A299</nod>
+<teideal>Námhaid don Phobal</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="167">
+<nod>A300</nod>
+<teideal>Beathafhéinscríbhinn Naoimh Treasa leis an Leanbh Íosa</teideal>
+<bf>1926</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="168">
+<nod>A303</nod>
+<teideal>Traidisiún Liteartha na nGael</teideal>
+<bf>1979</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="169">
+<nod>A304</nod>
+<teideal>Tiomna Nua ár dTiarna agus ár Slánaitheora Íosa Críost</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="170">
+<nod>A305</nod>
+<teideal>Comhaontú ar Thángthas air sna Caibidlí Ilpháirtí</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="171">
+<nod>A306</nod>
+<teideal>Lóna</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="172">
+<nod>A307</nod>
+<teideal>Tarna Philippica, An</teideal>
+<bf>1932</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="173">
+<nod>A309</nod>
+<teideal>Finn-Dia, An</teideal>
+<bf>1935</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="174">
+<nod>A311</nod>
+<teideal>Eoraip an Phobail</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="175">
+<nod>A312</nod>
+<teideal>Libhius XXII</teideal>
+<bf>1954</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="176">
+<nod>AC001</nod>
+<teideal>Féin-Scríbhinn Fíor-Shreothaidhe</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="177">
+<nod>AC002</nod>
+<teideal>Cnoc na nGabha I</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="178">
+<nod>AC003</nod>
+<teideal>Cnoc na nGabha II</teideal>
+<bf>1910</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="179">
+<nod>AC004</nod>
+<teideal>Cnoc na nGabha III</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="180">
+<nod>AC005</nod>
+<teideal>Cnoc na nGabha IV</teideal>
+<bf>1929</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="181">
+<nod>AC006</nod>
+<teideal>Saile Ní Chaomhánaigh</teideal>
+<bf>1932</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="182">
+<nod>AC007</nod>
+<teideal>Bás nó Beatha</teideal>
+<bf>1963</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="183">
+<nod>AC008</nod>
+<teideal>Sealgaireacht an Iarthair</teideal>
+<bf>1933</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="184">
+<nod>AC009</nod>
+<teideal>Ríoghacht na nÉan 1</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="185">
+<nod>AC010</nod>
+<teideal>Ríoghacht na nÉan 2</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="186">
+<nod>AC011</nod>
+<teideal>Ré an Renaissance agus an Reifirméisin</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="187">
+<nod>AC012</nod>
+<teideal>Tiarna Éadbhárd, An</teideal>
+<bf>1944</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="188">
+<nod>AC013</nod>
+<teideal>Sgéalta Eorpacha is Eile</teideal>
+<bf>1927</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="189">
+<nod>AC015</nod>
+<teideal>Stair Choitchean na ré Críostaidhe, imleabhar 1 ón tús do chum Éirighe Amach na bProtastún (1-1517)</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="190">
+<nod>AC016</nod>
+<teideal>Ór Spáinneach</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="191">
+<nod>AC017</nod>
+<teideal>Cam-chuarta in Éirinn</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="192">
+<nod>AC018</nod>
+<teideal>Irisleabhar Príosúin Sheáin Mhistéil Cuid a 1</teideal>
+<bf>1910</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="193">
+<nod>AC019</nod>
+<teideal>Irisleabhar Príosúin Sheáin Mhistéil Cuid a 2</teideal>
+<bf>1911</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="194">
+<nod>AC020</nod>
+<teideal>Mé Féin is m'Asal</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="195">
+<nod>AC021</nod>
+<teideal>Blátha Bealtaine</teideal>
+<bf>1902</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="196">
+<nod>AC023</nod>
+<teideal>Mac na Mná Déirce</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="197">
+<nod>AC024</nod>
+<teideal>Conamara Theas - Áit agus Ainm</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="198">
+<nod>AC025</nod>
+<teideal>Cladach na Fairrge</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="199">
+<nod>AM001</nod>
+<teideal>Smaointe Fáin an tSuarthamáin</teideal>
+<bf>1938</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="200">
+<nod>AM003</nod>
+<teideal>Oidhche ar Bharr Tuinne agus Scéalta Eile</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="201">
+<nod>AM004</nod>
+<teideal>Deoraidhe Gaedhil ag eachtradh ar bhliain a 1798</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="202">
+<nod>AM005</nod>
+<teideal>Eachtradh Eibhlís i dTír na nIongantas</teideal>
+<bf>1922</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="203">
+<nod>AM006</nod>
+<teideal>Aithris ar Chríost</teideal>
+<bf>1914</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="204">
+<nod>AM007</nod>
+<teideal>Don Cíochóté - Cuid a hAon</teideal>
+<bf>1932</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="205">
+<nod>AM008</nod>
+<teideal>Gleann an Áir</teideal>
+<bf>1931</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="206">
+<nod>AM009</nod>
+<teideal>Meanma Gaedhal</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="207">
+<nod>AM011</nod>
+<teideal>Toradh na Gaedhilge ar Aitheasc agus ar Ghréithribh na nGaedheal</teideal>
+<bf>1905</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="208">
+<nod>AM012</nod>
+<teideal>Aesop a Tháinig go hÉirinn 1-5</teideal>
+<bf>1909</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="209">
+<nod>AM013</nod>
+<teideal>Fabhail-scéalta ó Aesop 1</teideal>
+<bf>1925</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="210">
+<nod>AM014</nod>
+<teideal>Fabhail-scéalta ó Aesop 2</teideal>
+<bf>1925</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="211">
+<nod>AM015</nod>
+<teideal>Lúcián</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="212">
+<nod>AM018</nod>
+<teideal>Fabhail-scéalta ó Aesop 3</teideal>
+<bf>1925</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="213">
+<nod>AM019</nod>
+<teideal>Múindín, An</teideal>
+<bf>1931</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="214">
+<nod>AM020</nod>
+<teideal>Eachtra Phinocchio</teideal>
+<bf>1936</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="215">
+<nod>AM021_NUA</nod>
+<teideal>Dracula</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="216">
+<nod>AM022a</nod>
+<teideal>Na Cheithre Soisgéil as an Tiomna Nua</teideal>
+<bf>1915</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="217">
+<nod>AM022b</nod>
+<teideal>Gníomhartha na n-Aspol</teideal>
+<bf>1922</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="218">
+<nod>AM023</nod>
+<teideal>Clisiam Charman</teideal>
+<bf>1954</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="219">
+<nod>AU002</nod>
+<teideal>Gadaidheacht Le Láimh Láidir</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="220">
+<nod>AU003</nod>
+<teideal>Roibeart Emmet</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="221">
+<nod>AU004</nod>
+<teideal>Máire</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="222">
+<nod>AU006</nod>
+<teideal>Eadar Muir is Tír</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="223">
+<nod>AU008</nod>
+<teideal>Cnota Glas, An</teideal>
+<bf>1941</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="224">
+<nod>AU009</nod>
+<teideal>I n-Aimsir Eoghain Ruaidh</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="225">
+<nod>AU010</nod>
+<teideal>Teach an Chrochadóra</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="226">
+<nod>AU011</nod>
+<teideal>Teacht Fríd an tSeagal</teideal>
+<bf>1932</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="227">
+<nod>AU012</nod>
+<teideal>Séideán Bruithne agus Amy Foster</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="228">
+<nod>AU013</nod>
+<teideal>Muinntir an Oileáin</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="229">
+<nod>AU014</nod>
+<teideal>Uaill-mhian Iúdaigh</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="230">
+<nod>AU015</nod>
+<teideal>Stair Éirghe-Amach na n-Éireannach i 1798 I</teideal>
+<bf>1941</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="231">
+<nod>AU016</nod>
+<teideal>Stair Éirghe-Amach na n-Éireannach i 1798 II</teideal>
+<bf>1941</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="232">
+<nod>AU017</nod>
+<teideal>Éire agus Éireannaigh i Muirthéacht na Frainnce</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="233">
+<nod>AU018</nod>
+<teideal>Scairt an Dúthchais</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="234">
+<nod>AU019</nod>
+<teideal>Ise</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="235">
+<nod>AU020</nod>
+<teideal>Ben Hur</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="236">
+<nod>AU021</nod>
+<teideal>Eachtraí Sherlock Holmes</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="237">
+<nod>AU022</nod>
+<teideal>Iascaire Inse Tuile</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="238">
+<nod>AU023</nod>
+<teideal>Díth Céille Almayer</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="239">
+<nod>AU024</nod>
+<teideal>Faoi Chrann Smola</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="240">
+<nod>AU025</nod>
+<teideal>Uaigheanna Chill Mhóirne</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="241">
+<nod>AU026</nod>
+<teideal>Ar Son a Mháthar, Ceall An Spáinighe, Sgéall as Tírchonaill</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="242">
+<nod>AU027</nod>
+<teideal>Néall Dearg</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="243">
+<nod>AU028</nod>
+<teideal>Clann a' Phroifeasair</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="244">
+<nod>AU029</nod>
+<teideal>Eadarbhaile</teideal>
+<bf>1953</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="245">
+<nod>AU029_NUA</nod>
+<teideal>Eadarbhaile</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="246">
+<nod>AU030</nod>
+<teideal>Scéalta ón bhFraincis</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="247">
+<nod>AU032</nod>
+<teideal>Mo Chuidse Príosún</teideal>
+<bf>1956</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="248">
+<nod>AU033</nod>
+<teideal>Forairí an Mhachaire</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="249">
+<nod>Bail01</nod>
+<teideal>UP Seanamhach</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="250">
+<nod>C009</nod>
+<teideal>Sean-fhocla Chonnacht I</teideal>
+<bf>1948</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="251">
+<nod>C010</nod>
+<teideal>Sean-fhocla Chonnacht II</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="252">
+<nod>C015</nod>
+<teideal>Peadar Chois Fhairrge</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="253">
+<nod>C016</nod>
+<teideal>Ocht Sgéalta ó Choillte Mághach</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="254">
+<nod>C017</nod>
+<teideal>Siamsa an Gheimhridh - Nó Cois an Teallaigh in Iar-Chonnachta</teideal>
+<bf>1892</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="255">
+<nod>C018</nod>
+<teideal>Fuigheall Sgéal ó'n tSean-aimsir</teideal>
+<bf>1912</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="256">
+<nod>C030</nod>
+<teideal>Béal Beo , An</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="257">
+<nod>C037</nod>
+<teideal>Curadh Glas an Eolais</teideal>
+<bf>1905</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="258">
+<nod>C038</nod>
+<teideal>Éamon a Búrc: Scéalta</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="259">
+<nod>C040</nod>
+<teideal>Sgéalta Gearra an Iarthair</teideal>
+<bf>1911</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="260">
+<nod>C041</nod>
+<teideal>Targaireacht Bhriain Ruaidh Uí Chearbháin agus Stair-Sheanchas le Cois</teideal>
+<bf>1906</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="261">
+<nod>C042</nod>
+<teideal>Sgéuluidhe Fíor na Seachtmhaine</teideal>
+<bf>1911</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="262">
+<nod>C047</nod>
+<teideal>Amhráin Chlainne Gaedheal</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="263">
+<nod>C048</nod>
+<teideal>Amhráin Mhuighe Seóla</teideal>
+<bf>1918</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="264">
+<nod>C049</nod>
+<teideal>Amhráin Chúige Chonnacht - An Leath Rann</teideal>
+<bf>1928</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="265">
+<nod>C050</nod>
+<teideal>Ceól na n-Oileán</teideal>
+<bf>1935</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="266">
+<nod>C052</nod>
+<teideal>Sidheog na Rann</teideal>
+<bf>1911</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="267">
+<nod>C053</nod>
+<teideal>Fíbín, An</teideal>
+<bf>1905</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="268">
+<nod>C054</nod>
+<teideal>Tóruigheacht Mhadadh na Seacht gCos</teideal>
+<bf>1910</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="269">
+<nod>C055</nod>
+<teideal>Amhráin Chuilm de Bhailís</teideal>
+<bf>1904</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="270">
+<nod>C119</nod>
+<teideal>Loinnir Mac Leabhair agus Sgéalta Gaisgidh Eile</teideal>
+<bf>1936</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="271">
+<nod>C122</nod>
+<teideal>Mac Mic Iasgaire Bhuidhe Luimnighe - Sean-Sgéal as Tír Amalghaidh</teideal>
+<bf>1909</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="272">
+<nod>C123</nod>
+<teideal>Lúb na Caillighe agus Sgéalta eile</teideal>
+<bf>1910</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="273">
+<nod>C124</nod>
+<teideal>Triúr Clainne na Bárd Sgolóige</teideal>
+<bf>1914</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="274">
+<nod>C130</nod>
+<teideal>Leabhar Sgeulaigheachta</teideal>
+<bf>1889</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="275">
+<nod>C131</nod>
+<teideal>Beside the Fire</teideal>
+<bf>1890</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="276">
+<nod>C132</nod>
+<teideal>Sgeuluidhe Gaodhalach I,II,III, An</teideal>
+<bf>1895</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="277">
+<nod>C133</nod>
+<teideal>Abhráin Diadha Chúige Connacht I</teideal>
+<bf>1906</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="278">
+<nod>C134</nod>
+<teideal>Abhráin Diadha Chúige Connacht II</teideal>
+<bf>1906</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="279">
+<nod>C135</nod>
+<teideal>Abhráin Grádh Chúige Connacht</teideal>
+<bf>1893</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="280">
+<nod>C136</nod>
+<teideal>Clár Amhrán Bhaile na hInse</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="281">
+<nod>C137</nod>
+<teideal>Annála Beaga ó Iorrus Aithneach</teideal>
+<bf>1941</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="282">
+<nod>C139</nod>
+<teideal>Living Landscape, The</teideal>
+<bf>1975</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="283">
+<nod>C142</nod>
+<teideal>Scéalta Chois Cladaigh - Stories of the Sea and Shore</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="284">
+<nod>C143</nod>
+<teideal>Sgéalta Gearra an Iarthair 2</teideal>
+<bf>1906</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="285">
+<nod>C144</nod>
+<teideal>Seanchas Inis Meáin</teideal>
+<bf>1990</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="286">
+<nod>C146</nod>
+<teideal>I mBéal na Farraige</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="287">
+<nod>C147</nod>
+<teideal>Stairsheanchas Mhicil Chonraí - Ón Maimín go Ráth Cairn</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="288">
+<nod>C148</nod>
+<teideal>Bóithríní an Locháin agus Amhráin Eile</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="289">
+<nod>C149</nod>
+<teideal>Fonnadóirí, Na</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="290">
+<nod>C150</nod>
+<teideal>Pluid Dhorcha Leára</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="291">
+<nod>C151</nod>
+<teideal>Seoltóireacht Ghéar - Amhráin Sheáin Cheoinín</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="292">
+<nod>C153</nod>
+<teideal>Abhráin Ghaedhilge an Iarthair I</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="293">
+<nod>C154</nod>
+<teideal>Seanfhocail as Acaill</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="294">
+<nod>C155</nod>
+<teideal>Cluichí agus Caitheamh Aimsire Amuigh Faoin Aer i gConamara</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="295">
+<nod>C156</nod>
+<teideal>Fréamhacha na hÉireann</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="296">
+<nod>C157</nod>
+<teideal>Faoi Rothaí na Gréine - Amhráin as Conamara a bhailigh Máirtín Ó Cadhain</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="297">
+<nod>C158</nod>
+<teideal>Iascairín Chloch na Cora: Scéalta agus Seanchas ó Bhearna agus na Forbacha</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="298">
+<nod>Col.Uladh</nod>
+<teideal>Coláiste Uladh 1906-1956 Leabhar Cuimhne Iubhaile Leith-Chéad Blian</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="299">
+<nod>Éir_nua</nod>
+<teideal>Éireannach 1934 - 37: Nuachtán Sóisialach Gaeltachta, An t-</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="300">
+<nod>Feil. Torna</nod>
+<teideal>Féilscríbhinn Torna</teideal>
+<bf>1947</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="301">
+<nod>FéilTB</nod>
+<teideal>Féilscríbhinn Thomáis De Bhaldraithe</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="302">
+<nod>Gan nod</nod>
+<teideal>Dánta Grádha</teideal>
+<bf>1976</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="303">
+<nod>L089</nod>
+<teideal>Abhráin agus Dánta an Reachtabhraigh</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="304">
+<nod>L165_Réamhrá</nod>
+<teideal>Éigse na Máighe .i. Seán Ó Tuama an Ghrinn, Aindrias Mac Craith, An Mangaire Súgach…maille le haiste ag an Ollamh Domhnall Ó Corcora</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="305">
+<nod>LC001</nod>
+<teideal>Obair is Luadhainn</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="306">
+<nod>LC002</nod>
+<teideal>Mise</teideal>
+<bf>1943</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="307">
+<nod>LC003</nod>
+<teideal>Dubhaltach Mac Firbhisigh</teideal>
+<bf>1902</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="308">
+<nod>LC005</nod>
+<teideal>Dúil</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="309">
+<nod>LC006</nod>
+<teideal>Sliocht de Scríbhinnibh Mhíchíl Bhreathnaigh - Maille le n-a Bheathaidh</teideal>
+<bf>1913</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="310">
+<nod>LC007</nod>
+<teideal>Seilg i Measc na nAlp</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="311">
+<nod>LC008</nod>
+<teideal>Stair na hÉireann I</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="312">
+<nod>LC009</nod>
+<teideal>Idir Shúgradh agus Dáiríre</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="313">
+<nod>LC010</nod>
+<teideal>Braon Broghach, An</teideal>
+<bf>1948</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="314">
+<nod>LC011</nod>
+<teideal>Cré na Cille</teideal>
+<bf>1949</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="315">
+<nod>LC012</nod>
+<teideal>Cois Caoláire</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="316">
+<nod>LC013</nod>
+<teideal>Sraith ar Lár, An t-</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="317">
+<nod>LC014</nod>
+<teideal>As An nGéibheann - Litreacha Chuig Tomás Bairéad</teideal>
+<bf>1973</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="318">
+<nod>LC015</nod>
+<teideal>Sraith Dhá Tógáil, An t-</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="319">
+<nod>LC016</nod>
+<teideal>Sraith Tógtha, An t-</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="320">
+<nod>LC017</nod>
+<teideal>Páipéir Bhána agus Páipéir Bhreaca</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="321">
+<nod>LC018</nod>
+<teideal>Aisling, An</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="322">
+<nod>LC019</nod>
+<teideal>Gluaiseacht na Gaeilge - Gluaiseacht ar Strae</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="323">
+<nod>LC020</nod>
+<teideal>Consain na Gaeilge</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="324">
+<nod>LC021</nod>
+<teideal>Cómhrá Caillí</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="325">
+<nod>LC022</nod>
+<teideal>Máirtín Ó Direáin - Dánta 1939-1979</teideal>
+<bf>1980</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="326">
+<nod>LC023</nod>
+<teideal>Feamainn Bhealtaine</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="327">
+<nod>LC024</nod>
+<teideal>Ó Mórna agus Dánta Eile</teideal>
+<bf>1957</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="328">
+<nod>LC025</nod>
+<teideal>Diarmaid Donn</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="329">
+<nod>LC027</nod>
+<teideal>Mothall Sin Ort, An</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="330">
+<nod>LC026</nod>
+<teideal>Eochaidh Mac Rí 'n-Éirinn</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="331">
+<nod>LC029</nod>
+<teideal>Éan Cuideáin</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="332">
+<nod>LC030</nod>
+<teideal>Ceol na nGiolcach</teideal>
+<bf>1939</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="333">
+<nod>LC032</nod>
+<teideal>Seóid ó'n Iarthar Órdha</teideal>
+<bf>1935</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="334">
+<nod>LC033</nod>
+<teideal>Seacht mBuaidh an Eirghe Amach</teideal>
+<bf>1918</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="335">
+<nod>LC034</nod>
+<teideal>Chéad Chloch - Sgéalta, An</teideal>
+<bf>1914</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="336">
+<nod>LC035</nod>
+<teideal>Deoraidheacht</teideal>
+<bf>1916</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="337">
+<nod>LC036</nod>
+<teideal>Crann Géagach - Aistí agus Mion-sgéalta, An</teideal>
+<bf>1919</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="338">
+<nod>LC037</nod>
+<teideal>Sgéalaidhe Leitir Mealláin</teideal>
+<bf>1926</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="339">
+<nod>LC038</nod>
+<teideal>Sgéalta na n-Oileán - Sgéalta agus Dréachta</teideal>
+<bf>1929</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="340">
+<nod>LC039</nod>
+<teideal>Bruth-fá-Thír</teideal>
+<bf>1923</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="341">
+<nod>LC040</nod>
+<teideal>Conamara</teideal>
+<bf>1934</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="342">
+<nod>LC041</nod>
+<teideal>Dréachta</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="343">
+<nod>LC042</nod>
+<teideal>Ar Lorg an Ríogh agus Sgéalta Eile</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="344">
+<nod>LC043</nod>
+<teideal>Cladaigh Chonamara</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="345">
+<nod>LC044</nod>
+<teideal>Mo Dhúthaigh Fhiáin</teideal>
+<bf>1948</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="346">
+<nod>LC045</nod>
+<teideal>Stiléirí agus Scéalta Eile Aniar, Na</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="347">
+<nod>LC046</nod>
+<teideal>Pádhraic Mháire Bhán nó An Gol agus an Gáire</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="348">
+<nod>LC047</nod>
+<teideal>Troid agus an t-Uaigneas, An</teideal>
+<bf>1926</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="349">
+<nod>LC048</nod>
+<teideal>Seo Siúd</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="350">
+<nod>LC049</nod>
+<teideal>Geall a Briseadh, An</teideal>
+<bf>1968</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="351">
+<nod>LC050</nod>
+<teideal>Cumhacht na Cinneamhna</teideal>
+<bf>1938</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="352">
+<nod>LC051</nod>
+<teideal>Cruithneacht agus Ceannabháin</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="353">
+<nod>LC052</nod>
+<teideal>Ór na h-Aitinne</teideal>
+<bf>1949</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="354">
+<nod>LC053</nod>
+<teideal>Seanchas Thomáis Laighléis</teideal>
+<bf>1977</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="355">
+<nod>LC054</nod>
+<teideal>Ghaoth Aniar, An</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="356">
+<nod>LC055</nod>
+<teideal>Iomaire Ruadh, An t-</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="357">
+<nod>LC056</nod>
+<teideal>Scéalta Chois Teallaigh</teideal>
+<bf>1929</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="358">
+<nod>LC057</nod>
+<teideal>Stair-Cheachta I</teideal>
+<bf>1925</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="359">
+<nod>LC058</nod>
+<teideal>Eachtra Múinteóra</teideal>
+<bf>1929</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="360">
+<nod>LC059</nod>
+<teideal>Síol Éabha</teideal>
+<bf>1922</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="361">
+<nod>LC060</nod>
+<teideal>Sárchluichí le Sárimreoirí</teideal>
+<bf>1984</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="362">
+<nod>LC061</nod>
+<teideal>Sionnach ar mo Dhuán</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="363">
+<nod>LC062</nod>
+<teideal>Buille Faoi Thuairim Gabha</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="364">
+<nod>LC064</nod>
+<teideal>Mian a Croidhe</teideal>
+<bf>1922</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="365">
+<nod>LC065</nod>
+<teideal>Naoi nGábhadh an Ghiolla Dhuibh</teideal>
+<bf>1930</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="366">
+<nod>LC066</nod>
+<teideal>Lig Sinn i gCathú</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="367">
+<nod>LC067</nod>
+<teideal>Solus an Ghrádha</teideal>
+<bf>1924</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="368">
+<nod>LC068</nod>
+<teideal>Fraoch Bán, An</teideal>
+<bf>1934</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="369">
+<nod>LC069</nod>
+<teideal>Draoidheacht na Fairrge</teideal>
+<bf>1932</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="370">
+<nod>LC070</nod>
+<teideal>Lánúin agus Scéalta Eile, An</teideal>
+<bf>1979</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="371">
+<nod>LC071</nod>
+<teideal>Oidhre an Léighinn agus Scéalta Eile</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="372">
+<nod>LC072</nod>
+<teideal>Bean Aonair &amp; Scéalta Eile</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="373">
+<nod>LC073</nod>
+<teideal>Buicéad Poitín agus Scéalta Eile</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="374">
+<nod>LC074</nod>
+<teideal>Déithe Luachmhara Deiridh, Na</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="375">
+<nod>LC075</nod>
+<teideal>Athaoibhneas</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="376">
+<nod>LC076</nod>
+<teideal>Beatha Aodha Uí Néill</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="377">
+<nod>LC077</nod>
+<teideal>Cuimhne an tSeanpháiste</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="378">
+<nod>LC078</nod>
+<teideal>Ó Cadhain i bhFeasta</teideal>
+<bf>1990</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="379">
+<nod>LC079</nod>
+<teideal>Sgoláire Bocht agus Sgéalta Eile, An</teideal>
+<bf>1913</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="380">
+<nod>LC080</nod>
+<teideal>Beagnach Fíor</teideal>
+<bf>1936</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="381">
+<nod>LC081</nod>
+<teideal>Béal an Uaignis</teideal>
+<bf>1921</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="382">
+<nod>LC082</nod>
+<teideal>Ár Ré Dhearóil agus Dánta Eile</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="383">
+<nod>LC083</nod>
+<teideal>Creach Bhaile an Teampaill</teideal>
+<bf>1930</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="384">
+<nod>LC084</nod>
+<teideal>Stair na hÉireann II</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="385">
+<nod>LC085</nod>
+<teideal>Stair na hÉireann III</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="386">
+<nod>LC086</nod>
+<teideal>Cloch Choirnéil agus Dánta Eile</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="387">
+<nod>LC087</nod>
+<teideal>Craobhóg Dán</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="388">
+<nod>LC088</nod>
+<teideal>Beairtle</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="389">
+<nod>LC089</nod>
+<teideal>Willie the Plain Pint agus an Pápa</teideal>
+<bf>1977</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="390">
+<nod>LC090</nod>
+<teideal>Sléibhte Mhaigh Eo</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="391">
+<nod>LC091</nod>
+<teideal>Fearfeasa Mac Feasa</teideal>
+<bf>1930</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="392">
+<nod>LC092</nod>
+<teideal>Tincéara Buí, An</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="393">
+<nod>LC093</nod>
+<teideal>Fánaidheacht i gConndae Mhuigheo</teideal>
+<bf>1944</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="394">
+<nod>LC094</nod>
+<teideal>Trom &amp; Éadtrom : aistí</teideal>
+<bf>1927</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="395">
+<nod>LC095</nod>
+<teideal>Bairbre Ruadh</teideal>
+<bf>1908</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="396">
+<nod>LC096</nod>
+<teideal>Beathadh Sheagháin Mhic h-Éil</teideal>
+<bf>1903</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="397">
+<nod>LC097</nod>
+<teideal>Tír na n-Iongantas</teideal>
+<bf>1916</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="398">
+<nod>LC098</nod>
+<teideal>Saoghal Éanacha</teideal>
+<bf>1925</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="399">
+<nod>LC099</nod>
+<teideal>Spéir Thoirní</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="400">
+<nod>LC100</nod>
+<teideal>Ar Bhád Chonraí go Meiriceá</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="401">
+<nod>LC101</nod>
+<teideal>Saol Scolóige : Dírbheathaisnéis</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="402">
+<nod>LC102</nod>
+<teideal>Loscadh Sléibhe</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="403">
+<nod>LC103</nod>
+<teideal>Fear a Phléasc, An</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="404">
+<nod>LC104</nod>
+<teideal>Cruastóir agus An Mhéar Fhada, An</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="405">
+<nod>LC105</nod>
+<teideal>Fear Bréige, An</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="406">
+<nod>LC106</nod>
+<teideal>Ag Ealaín in Éirinn</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="407">
+<nod>LC107</nod>
+<teideal>Grásta i Meiriceá</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="408">
+<nod>LC108</nod>
+<teideal>Gormfhlaith</teideal>
+<bf>1905</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="409">
+<nod>LC109</nod>
+<teideal>Clochmhóin</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="410">
+<nod>LC110</nod>
+<teideal>Taomanna</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="411">
+<nod>LC111</nod>
+<teideal>Croí na Cloiche</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="412">
+<nod>LC112</nod>
+<teideal>De Dhroim Leice</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="413">
+<nod>LC113</nod>
+<teideal>Pincín agus Scéalta Eile, An</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="414">
+<nod>LC115</nod>
+<teideal>Brídín an Dílleachta</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="415">
+<nod>LC116</nod>
+<teideal>Bóithrín na hAille Báine</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="416">
+<nod>LC117</nod>
+<teideal>Deoir Ghoirt an Deoraí</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="417">
+<nod>LC118</nod>
+<teideal>Deoir ón tSúil</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="418">
+<nod>LC119</nod>
+<teideal>Gróga Cloch</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="419">
+<nod>LC120</nod>
+<teideal>Sclábhaíocht</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="420">
+<nod>LC121</nod>
+<teideal>Seán Chualáin</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="421">
+<nod>LC122</nod>
+<teideal>Taidhgín</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="422">
+<nod>LC123</nod>
+<teideal>Idir Mná : Scríbhneoirí Ban Ros Muc</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="423">
+<nod>LC124</nod>
+<teideal>Solas Dearg, An</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="424">
+<nod>LC126</nod>
+<teideal>Leabhar Cainte Gaedhilge - Béarla</teideal>
+<bf>1903</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="425">
+<nod>LC127</nod>
+<teideal>Dochtúir, An</teideal>
+<bf>1909</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="426">
+<nod>LC128</nod>
+<teideal>Mac Gníomhartha Bhriain</teideal>
+<bf>1905</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="427">
+<nod>LC129</nod>
+<teideal>Cosnaítear an Creideamh : Chula Tú faoi Rath Cairn</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="428">
+<nod>LC130</nod>
+<teideal>Tórramh an Bhardail</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="429">
+<nod>LC131_NUA</nod>
+<teideal>Inis Meáin : Seanchas agus Scéalta</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="430">
+<nod>LC132</nod>
+<teideal>Scothscéalta</teideal>
+<bf>1956</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="431">
+<nod>LC134</nod>
+<teideal>Diabhal Smid Bhréige Ann!</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="432">
+<nod>LC135</nod>
+<teideal>Laochra Gaedheal</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="433">
+<nod>LC136</nod>
+<teideal>Ciarán Fitzgerald agus Foireann Rugbaí na hÉireann</teideal>
+<bf>1985</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="434">
+<nod>LC139</nod>
+<teideal>Ceol an Phíobaire</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="435">
+<nod>LC140</nod>
+<teideal>Caiscín - Altanna san Irish Times 1953-56</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="436">
+<nod>LC141</nod>
+<teideal>Caithfear Éisteacht!   Aistí Mháirtín Uí Chadhain in Comhar</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="437">
+<nod>LC143</nod>
+<teideal>Caitlín Maude : drámaíocht agus prós</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="438">
+<nod>LM001</nod>
+<teideal>Briathar Mná</teideal>
+<bf>1928</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="439">
+<nod>LM002</nod>
+<teideal>Go mBeannuighthear Dhuit</teideal>
+<bf>1925</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="440">
+<nod>LM003</nod>
+<teideal>Bean an Bhrait Bháin</teideal>
+<bf>1928</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="441">
+<nod>LM004</nod>
+<teideal>Buaidh na Treise</teideal>
+<bf>1928</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="442">
+<nod>LM006</nod>
+<teideal>Dialann Oilithrigh</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="443">
+<nod>LM007</nod>
+<teideal>Sean-aimsireacht</teideal>
+<bf>1939</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="444">
+<nod>LM008</nod>
+<teideal>Fir Mhóra an tSeanphobail</teideal>
+<bf>1941</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="445">
+<nod>LM010</nod>
+<teideal>Is Truagh ná Fanann an Óige</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="446">
+<nod>LM011</nod>
+<teideal>Seo Mar Bhí</teideal>
+<bf>1930</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="447">
+<nod>LM012</nod>
+<teideal>Róisín Bán an tSléibhe</teideal>
+<bf>1923</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="448">
+<nod>LM013</nod>
+<teideal>Teoiní agus Tighthe Lóistín agus Dhá Scéal Eile</teideal>
+<bf>1923</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="449">
+<nod>LM014</nod>
+<teideal>Rábaire Bán, An</teideal>
+<bf>1928</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="450">
+<nod>LM015</nod>
+<teideal>Cormac Ua Conaill</teideal>
+<bf>1901</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="451">
+<nod>LM016</nod>
+<teideal>Mo Sgéal Féin</teideal>
+<bf>1915</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="452">
+<nod>LM017</nod>
+<teideal>Niamh</teideal>
+<bf>1910</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="453">
+<nod>LM018</nod>
+<teideal>Ag Séideadh agus ag Ithe</teideal>
+<bf>1917</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="454">
+<nod>LM019</nod>
+<teideal>Séadna</teideal>
+<bf>1904</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="455">
+<nod>LM020</nod>
+<teideal>Táin Bó Cuailnge 'na Dhráma</teideal>
+<bf>1915</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="456">
+<nod>LM021</nod>
+<teideal>Guaire I, II</teideal>
+<bf>1915</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="457">
+<nod>LM022</nod>
+<teideal>Craos-Deamhan, An</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="458">
+<nod>LM023</nod>
+<teideal>Cleasaidhe, An</teideal>
+<bf>1915</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="459">
+<nod>LM024</nod>
+<teideal>Bricriu</teideal>
+<bf>1920</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="460">
+<nod>LM026</nod>
+<teideal>Sgéalaidheachta as an mBíobla Naomhtha 1,3,4,5,6,7,</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="461">
+<nod>LM026a</nod>
+<teideal>Sgéalaidheachta as an mBíobla Naomhtha 2</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="462">
+<nod>LM027</nod>
+<teideal>Sgothbhualadh</teideal>
+<bf>1904</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="463">
+<nod>LM028</nod>
+<teideal>Seanmóin agus Trí Fichid I</teideal>
+<bf>1909</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="464">
+<nod>LM029</nod>
+<teideal>Seanmóin agus Trí Fichid II</teideal>
+<bf>1910</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="465">
+<nod>LM030</nod>
+<teideal>Cómhairle Ár Leasa</teideal>
+<bf>1923</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="466">
+<nod>LM031</nod>
+<teideal>Ár nDóithin Araon</teideal>
+<bf>1919</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="467">
+<nod>LM032</nod>
+<teideal>Ó Thuaidh</teideal>
+<bf>1983</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="468">
+<nod>LM033</nod>
+<teideal>Cath Fionntrágha</teideal>
+<bf>1925</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="469">
+<nod>LM034</nod>
+<teideal>Stiana</teideal>
+<bf>1930</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="470">
+<nod>LM035</nod>
+<teideal>Éire - Léigheachta ar Stair na hÉireann 1</teideal>
+<bf>1924</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="471">
+<nod>LM036</nod>
+<teideal>Buaiceas, An</teideal>
+<bf>1903</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="472">
+<nod>LM037</nod>
+<teideal>Eoghan Paor</teideal>
+<bf>1917</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="473">
+<nod>LM038</nod>
+<teideal>Mac Fínghin Dubh</teideal>
+<bf>1903</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="474">
+<nod>LM040</nod>
+<teideal>Oileán a Tréigeadh, An t-</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="475">
+<nod>LM041</nod>
+<teideal>Iarbhlascaodach ina Dheoraí</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="476">
+<nod>LM042</nod>
+<teideal>Bun an Dá Abhann</teideal>
+<bf>1933</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="477">
+<nod>LM044</nod>
+<teideal>Geantraighe</teideal>
+<bf>1928</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="478">
+<nod>LM045</nod>
+<teideal>Cinneamhna Dé agus Scéalta Eile</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="479">
+<nod>LM046</nod>
+<teideal>Lá Dár Saol</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="480">
+<nod>LM047</nod>
+<teideal>Ar Mo Mharanadh Dam : Aistí</teideal>
+<bf>1933</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="481">
+<nod>LM048</nod>
+<teideal>Beirt Dhéiseach</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="482">
+<nod>LM049</nod>
+<teideal>Psaltair na Rinne</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="483">
+<nod>LM050</nod>
+<teideal>Eachtra na mBróg</teideal>
+<bf>1918</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="484">
+<nod>LM053</nod>
+<teideal>Clocha Sgáil</teideal>
+<bf>1930</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="485">
+<nod>LM054</nod>
+<teideal>Timcheall Chinn Sléibhe</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="486">
+<nod>LM056</nod>
+<teideal>Ó Donnabháin Rosa I</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="487">
+<nod>LM057</nod>
+<teideal>Ó Donnabháin Rosa II</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="488">
+<nod>LM058</nod>
+<teideal>Saoghal Mór, An</teideal>
+<bf>1943</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="489">
+<nod>LM059</nod>
+<teideal>Oileánach, An t-</teideal>
+<bf>1929</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="490">
+<nod>LM060</nod>
+<teideal>Allagar na hInise</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="491">
+<nod>LM061</nod>
+<teideal>Dinnseanchas na mBlascaodaí</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="492">
+<nod>LM061_NUA</nod>
+<teideal>Dinnseanchas na mBlascaodaí</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="493">
+<nod>LM062</nod>
+<teideal>Aistí ó Chléire</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="494">
+<nod>LM064</nod>
+<teideal>Cómhrádh Ban</teideal>
+<bf>1954</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="495">
+<nod>LM065</nod>
+<teideal>Peats na Baintreabhaighe</teideal>
+<bf>1945</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="496">
+<nod>LM066</nod>
+<teideal>Aird Ó Thuaidh, Na h-</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="497">
+<nod>LM067</nod>
+<teideal>Beatha Pheig Sayers</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="498">
+<nod>LM068</nod>
+<teideal>Ladhar den Lus Mhór</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="499">
+<nod>LM069</nod>
+<teideal>Cnuasacht Trágha</teideal>
+<bf>1908</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="500">
+<nod>LM070</nod>
+<teideal>Gabha na Coille</teideal>
+<bf>1915</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="501">
+<nod>LM071</nod>
+<teideal>Gile na mBláth</teideal>
+<bf>1912</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="502">
+<nod>LM072</nod>
+<teideal>Brosna</teideal>
+<bf>1965</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="503">
+<nod>LM073</nod>
+<teideal>Aistí ar Litridheacht Ghréigise is Laidine</teideal>
+<bf>1929</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="504">
+<nod>LM074</nod>
+<teideal>Gabhar sa Teampall, An</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="505">
+<nod>LM075</nod>
+<teideal>Idir na Fleadhanna</teideal>
+<bf>1930</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="506">
+<nod>LM077</nod>
+<teideal>Scríbhne Risteard de Hindeberg</teideal>
+<bf>1924</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="507">
+<nod>LM078</nod>
+<teideal>Duanta Andeas</teideal>
+<bf>1934</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="508">
+<nod>LM079</nod>
+<teideal>Fiannaidhe Fáin</teideal>
+<bf>1934</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="509">
+<nod>LM080</nod>
+<teideal>Trí Glúine Gaedheal</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="510">
+<nod>LM081</nod>
+<teideal>Saothar Dhámh-Sgoile Mhúsgraidhe</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="511">
+<nod>LM081_Réamhrá</nod>
+<teideal>Saothar Dhámh-Sgoile Mhúsgraidhe (Réamhrá)</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="512">
+<nod>LM082</nod>
+<teideal>Filidheacht Phádraig Uí Chruadhlaoich I</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="513">
+<nod>LM083</nod>
+<teideal>Filidheacht Phádraig Uí Chruadhlaoich II</teideal>
+<bf>1942</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="514">
+<nod>LM084</nod>
+<teideal>Bhéarsaí "Dhá Chích Dhanann"</teideal>
+<bf>1946</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="515">
+<nod>LM086</nod>
+<teideal>Eachtra Thaidhg Mhic Céin</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="516">
+<nod>LM087</nod>
+<teideal>Beirt Ghaedhilgeoirí 'na gComhnuidhe 'sa Chathair</teideal>
+<bf>1915</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="517">
+<nod>LM089a</nod>
+<teideal>Annála na Tuatha I</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="518">
+<nod>LM089b</nod>
+<teideal>Annála na Tuatha I</teideal>
+<bf>1905</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="519">
+<nod>LM090</nod>
+<teideal>Annála na Tuatha II</teideal>
+<bf>1906</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="520">
+<nod>LM091</nod>
+<teideal>Annála na Tuatha III</teideal>
+<bf>1907</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="521">
+<nod>LM092</nod>
+<teideal>Sgéalaidheacht na Macabéach I agus II</teideal>
+<bf>1925</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="522">
+<nod>LM093</nod>
+<teideal>Baile Seo 'gainn-ne, Cnuasach Sgéal n-Úrnua, An</teideal>
+<bf>1913</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="523">
+<nod>LM094</nod>
+<teideal>Sléibhteánach, An</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="524">
+<nod>LM095</nod>
+<teideal>Duanaire Dúithch 'Ealla</teideal>
+<bf>1932</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="525">
+<nod>LM095_Réamhrá</nod>
+<teideal>Duanaire Dúithch 'Ealla (Réamhrá)</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="526">
+<nod>LM096</nod>
+<teideal>Lughaidh Mac Con</teideal>
+<bf>1914</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="527">
+<nod>LM097</nod>
+<teideal>Cogarnach ár gCósta</teideal>
+<bf>1979</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="528">
+<nod>LM099</nod>
+<teideal>Prátaí Mhichíl Thaidhg</teideal>
+<bf>1904</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="529">
+<nod>LM100</nod>
+<teideal>Measgán Músgraighe - Cnuasach beag sgéalaidheachta</teideal>
+<bf>1907</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="530">
+<nod>LM101</nod>
+<teideal>Cléibhín Móna</teideal>
+<bf>1907</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="531">
+<nod>LM102</nod>
+<teideal>Tadhg Gabha</teideal>
+<bf>1912</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="532">
+<nod>LM103</nod>
+<teideal>Muinntear na Tuatha</teideal>
+<bf>1921</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="533">
+<nod>LM104</nod>
+<teideal>Beartín Luachra</teideal>
+<bf>1927</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="534">
+<nod>LM105</nod>
+<teideal>Allagar na hInise</teideal>
+<bf>1928</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="535">
+<nod>LM106</nod>
+<teideal>Fánaí</teideal>
+<bf>1928</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="536">
+<nod>LM109</nod>
+<teideal>Idir Dhá Shaol</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="537">
+<nod>LM111</nod>
+<teideal>Le Gealaigh</teideal>
+<bf>1991</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="538">
+<nod>LM113</nod>
+<teideal>Thar Bealach Isteach</teideal>
+<bf>1940</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="539">
+<nod>LM115</nod>
+<teideal>Seal le Faeilí</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="540">
+<nod>LM116</nod>
+<teideal>Siúlach Scéalach</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="541">
+<nod>LM117</nod>
+<teideal>Iognáid Loyola</teideal>
+<bf>1962</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="542">
+<nod>LM118</nod>
+<teideal>Bullaí Mhártain</teideal>
+<bf>1955</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="543">
+<nod>LM119</nod>
+<teideal>Créamaraí</teideal>
+<bf>1984</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="544">
+<nod>LM120</nod>
+<teideal>Jimín Mháire Thaidhg</teideal>
+<bf>1919</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="545">
+<nod>LM122</nod>
+<teideal>Litreacha Gaedhilge le hAghaidh an Aosa Óig</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="546">
+<nod>LM123</nod>
+<teideal>Triúr Againn</teideal>
+<bf>1955</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="547">
+<nod>LM124</nod>
+<teideal>Art Ó Gríofa : Beathaisnéis</teideal>
+<bf>1953</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="548">
+<nod>LM126</nod>
+<teideal>Bríde Bhán</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="549">
+<nod>LM127</nod>
+<teideal>Seaghán an Díomais</teideal>
+<bf>1901</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="550">
+<nod>LM128</nod>
+<teideal>Mac Cárthaigh Mór</teideal>
+<bf>1908</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="551">
+<nod>LM129</nod>
+<teideal>Tobar Draoidheachta, An</teideal>
+<bf>1904</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="552">
+<nod>LM130</nod>
+<teideal>Sprid, An</teideal>
+<bf>1902</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="553">
+<nod>LM131</nod>
+<teideal>Seaghán na Scuab</teideal>
+<bf>1904</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="554">
+<nod>LM132</nod>
+<teideal>Beatha Dhomhnaill Uí Chonaill</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="555">
+<nod>LM133</nod>
+<teideal>Seanchas na Deasmhumhan</teideal>
+<bf>1940</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="556">
+<nod>LM134</nod>
+<teideal>Oighreacht Róisín</teideal>
+<bf>1910</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="557">
+<nod>LM135</nod>
+<teideal>Deora Dé</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="558">
+<nod>LM136</nod>
+<teideal>Saoir Theangan</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="559">
+<nod>LM137</nod>
+<teideal>Gioblachán  - Finnsgéal Nuadh-Dhéanta, An</teideal>
+<bf>1903</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="560">
+<nod>LM138</nod>
+<teideal>Seabhac na Ceathramhain Caoile</teideal>
+<bf>1906</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="561">
+<nod>LM139</nod>
+<teideal>Citeal na Stoirme</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="562">
+<nod>LM140</nod>
+<teideal>Chicago Driver</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="563">
+<nod>LM143</nod>
+<teideal>Leaca Liombó</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="564">
+<nod>LM144</nod>
+<teideal>Ceol Maidí Rámha</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="565">
+<nod>LM145</nod>
+<teideal>Comharsa Coimhthíoch, An</teideal>
+<bf>1957</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="566">
+<nod>LM146</nod>
+<teideal>Bás Dhalláin</teideal>
+<bf>1905</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="567">
+<nod>LM147</nod>
+<teideal>Tadhg Saor</teideal>
+<bf>1905</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="568">
+<nod>LM148</nod>
+<teideal>John Devoy</teideal>
+<bf>1961</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="569">
+<nod>LM149</nod>
+<teideal>Chuireas mo Líonta</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="570">
+<nod>LM150</nod>
+<teideal>Í Siúd</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="571">
+<nod>LM151</nod>
+<teideal>Eoghan</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="572">
+<nod>LM153</nod>
+<teideal>Soineann 's Doineann</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="573">
+<nod>LM154</nod>
+<teideal>Dubhchrónach, An</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="574">
+<nod>LM155</nod>
+<teideal>Duanaire Déiseach</teideal>
+<bf>1978</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="575">
+<nod>LM156</nod>
+<teideal>Seal Thall, Seal Abhus</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="576">
+<nod>LM158</nod>
+<teideal>Fiche Blian ag Fás</teideal>
+<bf>1933</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="577">
+<nod>LM160</nod>
+<teideal>Tae le Tae</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="578">
+<nod>LM161</nod>
+<teideal>Peacaí na nAthaireacha</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="579">
+<nod>LM162</nod>
+<teideal>Greenhorn</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="580">
+<nod>LM168</nod>
+<teideal>Mair, a Chapaill</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="581">
+<nod>LM169</nod>
+<teideal>Baile i bhFad Siar, An</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="582">
+<nod>LM170</nod>
+<teideal>Dochtúir na bPiast</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="583">
+<nod>LM171</nod>
+<teideal>Eisirt</teideal>
+<bf>1913</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="584">
+<nod>LM172</nod>
+<teideal>Sliabh na mBan bhFionn agus Cúán Fithise</teideal>
+<bf>1914</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="585">
+<nod>LM173</nod>
+<teideal>Mion-Chaint Cuid I</teideal>
+<bf>1899</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="586">
+<nod>LM174</nod>
+<teideal>Mion-Chaint Cuid II</teideal>
+<bf>1902</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="587">
+<nod>LM175</nod>
+<teideal>Mion-Chaint Cuid III</teideal>
+<bf>1902</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="588">
+<nod>LM176</nod>
+<teideal>Papers on Irish Idiom</teideal>
+<bf>1926</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="589">
+<nod>LM178</nod>
+<teideal>Ríocht na dTonn</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="590">
+<nod>LM179</nod>
+<teideal>Gleann agus a Raibh Ann, An</teideal>
+<bf>1963</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="591">
+<nod>LM182</nod>
+<teideal>Línte Liombó</teideal>
+<bf>1974</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="592">
+<nod>LM183</nod>
+<teideal>Eireaball Spideoige</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="593">
+<nod>LM184</nod>
+<teideal>Cuimhne Sean-leinbh</teideal>
+<bf>1946</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="594">
+<nod>LM185</nod>
+<teideal>Seanachas Phádraig Í Chrualaoi</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="595">
+<nod>LM186</nod>
+<teideal>Coinnle Corra</teideal>
+<bf>1968</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="596">
+<nod>LM187</nod>
+<teideal>Leoithne Aniar</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="597">
+<nod>LM188</nod>
+<teideal>Cleití Gé ón mBlascaod Mór</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="598">
+<nod>LM223</nod>
+<teideal>Bloghanna ón mBlascaod</teideal>
+<bf>1997</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="599">
+<nod>LM224</nod>
+<teideal>Ó Oileán go Cuilleán: ó pheann Mhuiris Uí Shúilleabháin</teideal>
+<bf>2000</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="600">
+<nod>LM225</nod>
+<teideal>Ar Seachrán</teideal>
+<bf>1981</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="601">
+<nod>LM226</nod>
+<teideal>Fan Inti</teideal>
+<bf>2008</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="602">
+<nod>LM227</nod>
+<teideal>Súil Seilge</teideal>
+<bf>2007</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="603">
+<nod>LM228</nod>
+<teideal>Iomramh Bhréanainn</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="604">
+<nod>LM229</nod>
+<teideal>De Réir Uimhreacha</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="605">
+<nod>LM231</nod>
+<teideal>Scéal agus Dáin Oileáin</teideal>
+<bf>2012</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="606">
+<nod>LU001</nod>
+<teideal>Laetha a Bhí, Na</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="607">
+<nod>LU002</nod>
+<teideal>Tusa A Mhaicín</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="608">
+<nod>LU003</nod>
+<teideal>Maicín</teideal>
+<bf>1923</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="609">
+<nod>LU004</nod>
+<teideal>Sé Dia an Fear is Feárr</teideal>
+<bf>1928</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="610">
+<nod>LU005</nod>
+<teideal>Dochartach, An</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="611">
+<nod>LU006</nod>
+<teideal>Rosa Go Bráthach, Na</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="612">
+<nod>LU006_NUA</nod>
+<teideal>Rosa Go Brách, Na</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="613">
+<nod>LU007</nod>
+<teideal>Gleann na Coilleadh Uaignighe</teideal>
+<bf>1946</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="614">
+<nod>LU008</nod>
+<teideal>Iascaire na gCiabh-fholt Fionn</teideal>
+<bf>1964</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="615">
+<nod>LU009</nod>
+<teideal>Gura Slán le M'Óige</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="616">
+<nod>LU010</nod>
+<teideal>Glúnta Rosannacha, Na</teideal>
+<bf>1952</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="617">
+<nod>LU011</nod>
+<teideal>Súil Thart ar an Dúlraidh</teideal>
+<bf>1945</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="618">
+<nod>LU012</nod>
+<teideal>Stair na h-Eaglaise i gComhair na Meadhon Scol I</teideal>
+<bf>1941</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="619">
+<nod>LU013</nod>
+<teideal>Troid Bhaile an Droichid</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="620">
+<nod>LU015</nod>
+<teideal>Scéal Ghaoth Dobhair</teideal>
+<bf>1983</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="621">
+<nod>LU016</nod>
+<teideal>Eoghan Ruadh Ó Néill</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="622">
+<nod>LU017</nod>
+<teideal>Bhreatain Bheag, An</teideal>
+<bf>1937</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="623">
+<nod>LU018</nod>
+<teideal>Dochartach Dhuibhlionna agus Sgéaltaí Eile</teideal>
+<bf>1925</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="624">
+<nod>LU019</nod>
+<teideal>Grá agus an Ghruaim, An</teideal>
+<bf>1929</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="625">
+<nod>LU020</nod>
+<teideal>Pádraic Ó Conaire agus Aistí Eile</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="626">
+<nod>LU021</nod>
+<teideal>Mo Bhealach Féin agus Dá mBíodh Ruball ar an Éan</teideal>
+<bf>1940</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="627">
+<nod>LU021_NUA</nod>
+<teideal>Dá mBíodh Ruball ar an Éan</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="628">
+<nod>LU022</nod>
+<teideal>Druma Mór, An</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="629">
+<nod>LU023</nod>
+<teideal>Indé agus Indiu</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="630">
+<nod>LU024</nod>
+<teideal>Fear Siubhail a's a Chuid Comharsanach agus Daoine Eile</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="631">
+<nod>LU025</nod>
+<teideal>Sgéalta Goiride Geimhridh</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="632">
+<nod>LU026</nod>
+<teideal>Ó Chamhaoir go Clap-Sholas</teideal>
+<bf>1951</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="633">
+<nod>LU027</nod>
+<teideal>Mám as Mo Mhála</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="634">
+<nod>LU028</nod>
+<teideal>Mám Eile as an Mála Chéadna</teideal>
+<bf>1954</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="635">
+<nod>LU029</nod>
+<teideal>Crathadh an Phocáin</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="636">
+<nod>LU030</nod>
+<teideal>Stair na hÉireann 1</teideal>
+<bf>1956</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="637">
+<nod>LU032</nod>
+<teideal>Saoghal Corrach</teideal>
+<bf>1945</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="638">
+<nod>LU033</nod>
+<teideal>Mo Dhá Róisín</teideal>
+<bf>1935</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="639">
+<nod>LU034</nod>
+<teideal>Nuair a Bhí Mé Óg</teideal>
+<bf>1942</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="640">
+<nod>LU035</nod>
+<teideal>Cioth is Dealán</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="641">
+<nod>LU036</nod>
+<teideal>Caisleáin Óir</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="642">
+<nod>LU037</nod>
+<teideal>Thiar i dTír Chonaill</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="643">
+<nod>LU038</nod>
+<teideal>Bean Ruadh de Dhálach</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="644">
+<nod>LU039</nod>
+<teideal>Micheál Ruadh</teideal>
+<bf>1925</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="645">
+<nod>LU040</nod>
+<teideal>Rann na Feirste</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="646">
+<nod>LU041</nod>
+<teideal>Clár is an Fhoireann, An</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="647">
+<nod>LU042</nod>
+<teideal>Draoidín, An</teideal>
+<bf>1959</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="648">
+<nod>LU043</nod>
+<teideal>Feara Fáil</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="649">
+<nod>LU045</nod>
+<teideal>Oidhche Shamhraidh agus Scéalta Eile</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="650">
+<nod>LU046</nod>
+<teideal>Ó Mhuir go Sliabh</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="651">
+<nod>LU047</nod>
+<teideal>Scéal Úr agus Sean-scéal</teideal>
+<bf>1945</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="652">
+<nod>LU044</nod>
+<teideal>Le Clap-Sholus</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="653">
+<nod>LU048</nod>
+<teideal>Sean-Teach, An</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="654">
+<nod>LU049</nod>
+<teideal>Suipín an Iolair</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="655">
+<nod>LU050</nod>
+<teideal>Teach nár Tógadh agus Scéalta Eile, An</teideal>
+<bf>1948</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="656">
+<nod>LU052</nod>
+<teideal>Tarngaireacht Mhiseóige</teideal>
+<bf>1958</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="657">
+<nod>LU054</nod>
+<teideal>Cloich Cheann-Fhaolaidh</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="658">
+<nod>LU055</nod>
+<teideal>Gasúr de Chuid Bhaile na nGrág</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="659">
+<nod>LU056</nod>
+<teideal>Thiar i nGleann Ceo</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="660">
+<nod>LU057</nod>
+<teideal>Mian na Marbh</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="661">
+<nod>LU058</nod>
+<teideal>Stair na h-Eaglaise i gcomhair na Meadhon-scol 2</teideal>
+<bf>1949</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="662">
+<nod>LU059</nod>
+<teideal>Iasgaireacht Shéamuis Bhig</teideal>
+<bf>1914</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="663">
+<nod>LU060</nod>
+<teideal>Teagasg na Máthara</teideal>
+<bf>1921</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="664">
+<nod>LU061</nod>
+<teideal>Sgéalta as an tSean-Litridheacht</teideal>
+<bf>1956</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="665">
+<nod>LU062</nod>
+<teideal>Toraigh na dTonn</teideal>
+<bf>1971</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="666">
+<nod>LU064</nod>
+<teideal>Dílidhe, An</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="667">
+<nod>LU065</nod>
+<teideal>Rácáil agus Scuabadh</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="668">
+<nod>LU067</nod>
+<teideal>Ceachta as Leabhar na Cruinne</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="669">
+<nod>LU068</nod>
+<teideal>Úna Bhán agus Scéalta Eile</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="670">
+<nod>LU070</nod>
+<teideal>Cúl le Muir agus Scéalta Eile</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="671">
+<nod>LU071</nod>
+<teideal>Fallaing Shíoda</teideal>
+<bf>1956</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="672">
+<nod>LU072</nod>
+<teideal>Cáitheamh na dTonn</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="673">
+<nod>LU074</nod>
+<teideal>Filí agus Felons</teideal>
+<bf>1987</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="674">
+<nod>LU075</nod>
+<teideal>Ó Neamh go hÁrainn</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="675">
+<nod>LU076</nod>
+<teideal>Faire Pháidí Mhóir agus Pósadh Chonaill Bhig</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="676">
+<nod>LU077</nod>
+<teideal>Súile Shuibhne</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="677">
+<nod>LU078</nod>
+<teideal>Suibhne</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="678">
+<nod>LU079</nod>
+<teideal>Sgéilíní na Finne</teideal>
+<bf>1928</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="679">
+<nod>LU080</nod>
+<teideal>Cogadh Dearg agus Scéalta Eile, An</teideal>
+<bf>1918</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="680">
+<nod>LU081</nod>
+<teideal>Airidheach, An t-</teideal>
+<bf>1930</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="681">
+<nod>LU082</nod>
+<teideal>Ciall na Sean-Ráidhte</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="682">
+<nod>LU084</nod>
+<teideal>Craoibhín Ceoil, An</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="683">
+<nod>LU085</nod>
+<teideal>Homecoming / An Bealach na Bhaile</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="684">
+<nod>LU086</nod>
+<teideal>Buachaillí Bána, Na</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="685">
+<nod>LU087</nod>
+<teideal>Out in the Open</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="686">
+<nod>LU088</nod>
+<teideal>Blatha Fraoich</teideal>
+<bf>1905</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="687">
+<nod>LU089</nod>
+<teideal>Filí gan Iomrádh</teideal>
+<bf>1926</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="688">
+<nod>LU090</nod>
+<teideal>Forbairt na Gaeilge</teideal>
+<bf>1951</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="689">
+<nod>LU091</nod>
+<teideal>Beatha Naoimh Adhamhnain</teideal>
+<bf>1911</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="690">
+<nod>LU092</nod>
+<teideal>Bruighean Feille</teideal>
+<bf>1934</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="691">
+<nod>LU093</nod>
+<teideal>Cnuasach Céad Conlach</teideal>
+<bf>1989</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="692">
+<nod>LU094</nod>
+<teideal>Scríbhneoireacht na gConallach</teideal>
+<bf>1990</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="693">
+<nod>LU095</nod>
+<teideal>Eachtra Aodha Ruaidh Uí Dhomhnaill</teideal>
+<bf>1911</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="694">
+<nod>LU100</nod>
+<teideal>Seanchas na Féinne</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="695">
+<nod>LU101</nod>
+<teideal>Beatha Cholm Cille</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="696">
+<nod>LU103</nod>
+<teideal>Peigí ar 'Mháire'</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="697">
+<nod>LU104</nod>
+<teideal>Stairsheanchas Ghaoth Dobhair</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="698">
+<nod>LU105</nod>
+<teideal>Buaidh na Tuigse</teideal>
+<bf>1940</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="699">
+<nod>LU110</nod>
+<teideal>Rann na Feirsde: Seanchas ár Sinsear</teideal>
+<bf>1998</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="700">
+<nod>LU112</nod>
+<teideal>Taibhsí an Chreagáin</teideal>
+<bf>1976</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="701">
+<nod>LU113</nod>
+<teideal>Seanchas Annie Bhán</teideal>
+<bf>1997</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="702">
+<nod>M002</nod>
+<teideal>Sean-Chaint na nDéise I</teideal>
+<bf>1944</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="703">
+<nod>M003</nod>
+<teideal>Seana-Chaint na nDéise II</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="704">
+<nod>M007</nod>
+<teideal>Réilthíní Óir I</teideal>
+<bf>1922</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="705">
+<nod>M008</nod>
+<teideal>Réilthíní Óir II</teideal>
+<bf>1922</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="706">
+<nod>M013</nod>
+<teideal>Caint an Chláir I</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="707">
+<nod>M014</nod>
+<teideal>Caint an Chláir II</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="708">
+<nod>M016</nod>
+<teideal>Caint an tSean-shaoghail</teideal>
+<bf>1942</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="709">
+<nod>M017</nod>
+<teideal>Cúrsaí an tSean-shaoghail</teideal>
+<bf>1948</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="710">
+<nod>M018</nod>
+<teideal>Sceulta Mhicil Uí Mhuirgheasa ón Rinn</teideal>
+<bf>1923</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="711">
+<nod>M019</nod>
+<teideal>Cabhsa, An</teideal>
+<bf>1930</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="712">
+<nod>M024</nod>
+<teideal>Scéalaíocht Amhlaoibh Í Luínse</teideal>
+<bf>1971</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="713">
+<nod>M025</nod>
+<teideal>Béaloideas Bhéal Átha an Ghaorthaidh</teideal>
+<bf>1946</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="714">
+<nod>M028</nod>
+<teideal>Seanchas ón Oileán Tiar</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="715">
+<nod>M034</nod>
+<teideal>Árthach an Óir</teideal>
+<bf>1914</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="716">
+<nod>M037</nod>
+<teideal>Scéalta ón mBlascaod</teideal>
+<bf>1939</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="717">
+<nod>M038</nod>
+<teideal>Leabhar Sheáin Í Chonaill</teideal>
+<bf>1948</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="718">
+<nod>M039</nod>
+<teideal>Cnó Coille Craobhaighe</teideal>
+<bf>1907</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="719">
+<nod>M047</nod>
+<teideal>Machtnamh Seana-mhná</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="720">
+<nod>M048</nod>
+<teideal>Seanachas Amhlaoibh Í Luínse</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="721">
+<nod>M049</nod>
+<teideal>Sgéal mo Bheatha</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="722">
+<nod>M051</nod>
+<teideal>Nótaí do Scéal Mo Bheatha</teideal>
+<bf>0</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="723">
+<nod>M053</nod>
+<teideal>Tráchtas ar "Croí Chainte Chiarraí" - Adhmannas-úirceas</teideal>
+<bf>0</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="724">
+<nod>M056</nod>
+<teideal>Peig</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="725">
+<nod>M062</nod>
+<teideal>Beatha Mhichíl Turraoin - maille le Sceulta agus Seanachas</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="726">
+<nod>M064</nod>
+<teideal>Tonn Tóime</teideal>
+<bf>1913</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="727">
+<nod>M065</nod>
+<teideal>Seanchaidhe Muimhneach I, An</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="728">
+<nod>M069</nod>
+<teideal>A Chomharsain Éistigí agus amhráin eile as Co. an Chláir</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="729">
+<nod>M070</nod>
+<teideal>Duanaire Duibhneach</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="730">
+<nod>M072</nod>
+<teideal>Leabhar Stiofáin Uí Ealaoire</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="731">
+<nod>M079</nod>
+<teideal>Gaeilge Chorca Dhuibhne: An Fhóneolaíocht agus An Deilbhíocht</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="732">
+<nod>M082</nod>
+<teideal>Cosa Buidhe Arda I</teideal>
+<bf>1914</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="733">
+<nod>M083</nod>
+<teideal>Cosa Buidhe Arda II</teideal>
+<bf>1924</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="734">
+<nod>M084</nod>
+<teideal>Smóilín na Rann</teideal>
+<bf>1908</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="735">
+<nod>M089</nod>
+<teideal>Seanachas Ó Chairbre I</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="736">
+<nod>M093</nod>
+<teideal>Seanchas Chléire</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="737">
+<nod>M170</nod>
+<teideal>Sgeuluidheacht Chúige Mumhan</teideal>
+<bf>1895</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="738">
+<nod>M171</nod>
+<teideal>Diarmuid na Bolgaighe agus a Chomhursain</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="739">
+<nod>M172</nod>
+<teideal>Séamus Mór Ó Muimhneacháin - A Shaothar Fileata, mar aon le gearr-sheanchas ar a bheatha</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="740">
+<nod>M173</nod>
+<teideal>Ceol Ár Sinsear 1-7</teideal>
+<bf>1923</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="741">
+<nod>M179</nod>
+<teideal>Ceól Sídhe 1-6</teideal>
+<bf>1912</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="742">
+<nod>M180</nod>
+<teideal>Ár gCeol Féinig</teideal>
+<bf>1920</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="743">
+<nod>M182</nod>
+<teideal>Amhráin Thomáis Ruaidh Uí Shúilleabháin</teideal>
+<bf>1914</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="744">
+<nod>M186</nod>
+<teideal>Reacaireacht Ghrinn na Tuaithe</teideal>
+<bf>1925</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="745">
+<nod>M187</nod>
+<teideal>Filíocht Mháire Bhuidhe Ní Laoghaire</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="746">
+<nod>M188</nod>
+<teideal>Gort Broc - Scéalta agus Seanchas ó Bhéarra</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="747">
+<nod>M189</nod>
+<teideal>Béarrach Mná ag Caint</teideal>
+<bf>1999</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="748">
+<nod>M190</nod>
+<teideal>Cogar Mogar</teideal>
+<bf>1909</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="749">
+<nod>M191</nod>
+<teideal>Fuínn na Smól - Cuid a hAon</teideal>
+<bf>1913</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="750">
+<nod>M193</nod>
+<teideal>Fuínn na Smól - Cuid a Trí</teideal>
+<bf>1913</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="751">
+<nod>M194 / LM112</nod>
+<teideal>Fiolar an Eireabaill Bháin</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="752">
+<nod>M195</nod>
+<teideal>Sean-Fhocail na Mumhan - 1</teideal>
+<bf>1902</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="753">
+<nod>M196</nod>
+<teideal>Dúlra Duibhneach</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="754">
+<nod>M197</nod>
+<teideal>Scéalta agus Seanchas Phádraig Uí Ghrífín</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="755">
+<nod>M198</nod>
+<teideal>Dán is Céad ón Leitriúch</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="756">
+<nod>M199</nod>
+<teideal>Céad Fáilte go Cléire</teideal>
+<bf>1990</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="757">
+<nod>M201</nod>
+<teideal>Seanfhocail na Muimhneach</teideal>
+<bf>1926</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="758">
+<nod>M221</nod>
+<teideal>Bean an Oileáin</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="759">
+<nod>M222</nod>
+<teideal>Ar Muir is ar Tír</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="760">
+<nod>M224</nod>
+<teideal>Scéilíní ón mBlascaod le Tomás Ó Criomhthain agus Blúirín as Cín Lae Eibhlín Ní Shúilleabháin</teideal>
+<bf>2004</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="761">
+<nod>M225</nod>
+<teideal>Oileán a Bhí, An t</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="762">
+<nod>NL001</nod>
+<teideal>Cinn Lae Fá Sgáth Shléibh' Eachtgha</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="763">
+<nod>NL002</nod>
+<teideal>Comhcheilg na Mainistreach Móire</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="764">
+<nod>NL003</nod>
+<teideal>Scéal na Scannán</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="765">
+<nod>NL004</nod>
+<teideal>Graiméar Gaeilge na mBráithre Críostaí</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="766">
+<nod>NL004_NUA</nod>
+<teideal>Graiméar Gaeilge na mBráithre Críostaí</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="767">
+<nod>NL005</nod>
+<teideal>Bunadhas na Tráchtála</teideal>
+<bf>1944</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="768">
+<nod>NL008</nod>
+<teideal>Tosnú na Feallsúnachta</teideal>
+<bf>1935</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="769">
+<nod>NL021</nod>
+<teideal>Nótaí Tís</teideal>
+<bf>1956</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="770">
+<nod>NL023</nod>
+<teideal>Cuntais agus Cuntasaíocht</teideal>
+<bf>1954</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="771">
+<nod>NL024</nod>
+<teideal>Bunadhas an Gheilleagair</teideal>
+<bf>1956</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="772">
+<nod>NL027</nod>
+<teideal>B'fhiú an Braon Fola</teideal>
+<bf>1958</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="773">
+<nod>NL030</nod>
+<teideal>Gnás na Gaedhilge</teideal>
+<bf>1940</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="774">
+<nod>NL031</nod>
+<teideal>Duanaireacht</teideal>
+<bf>1975</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="775">
+<nod>NL037</nod>
+<teideal>Tír-eolaidheacht (Aicionta) I</teideal>
+<bf>1932</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="776">
+<nod>NL039</nod>
+<teideal>Dúlra agus Dúchas</teideal>
+<bf>1979</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="777">
+<nod>NL041</nod>
+<teideal>Béal Bocht, An</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="778">
+<nod>NL043</nod>
+<teideal>Forás Teoiricí an Gheilleagair</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="779">
+<nod>NL044</nod>
+<teideal>Eoluidheacht do'n Scoláire Óg</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="780">
+<nod>NL047</nod>
+<teideal>Gramadach Dhá-Theangthach</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="781">
+<nod>NL051</nod>
+<teideal>Sean-Ghaeilge gan Dua</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="782">
+<nod>NL052</nod>
+<teideal>Príomhthairgí an Domhain</teideal>
+<bf>1957</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="783">
+<nod>NL055</nod>
+<teideal>Sláinteachas agus Garchabhair</teideal>
+<bf>1956</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="784">
+<nod>NL056</nod>
+<teideal>Teas</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="785">
+<nod>NL059</nod>
+<teideal>Ealaín na Cócaireachta</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="786">
+<nod>NL060</nod>
+<teideal>Ceimic Bhunúsach 1</teideal>
+<bf>1975</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="787">
+<nod>NL061</nod>
+<teideal>Ceimic Bhunúsach 2</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="788">
+<nod>NL062</nod>
+<teideal>Athair William Bathe C.Í. 1564-1614: ceannródaí sa teangeolaíocht, An t-</teideal>
+<bf>1980</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="789">
+<nod>NL071</nod>
+<teideal>Domhan Beo, An</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="790">
+<nod>NL072</nod>
+<teideal>Troscán na mBánta</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="791">
+<nod>NL077</nod>
+<teideal>Luibheólas</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="792">
+<nod>NL078</nod>
+<teideal>Scéal na hEitleoireachta</teideal>
+<bf>1972</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="793">
+<nod>NL079</nod>
+<teideal>Prosóid Gaedhilge</teideal>
+<bf>1925</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="794">
+<nod>NL081</nod>
+<teideal>Blátha an Bhóithrín</teideal>
+<bf>1955</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="795">
+<nod>NL082</nod>
+<teideal>Raidió na Gaeltachta</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="796">
+<nod>NL083</nod>
+<teideal>Cholann Bheo, An</teideal>
+<bf>1949</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="797">
+<nod>NL084</nod>
+<teideal>Scríobhaithe Chorcaí 1700 - 1850</teideal>
+<bf>1982</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="798">
+<nod>NL092</nod>
+<teideal>Úrchúrsa Gaeilge</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="799">
+<nod>NL093</nod>
+<teideal>Cathair Luimnighe 1</teideal>
+<bf>1948</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="800">
+<nod>NL094</nod>
+<teideal>Múineadh an Dara Teanga</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="801">
+<nod>NL097</nod>
+<teideal>File na Dílseachta</teideal>
+<bf>1974</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="802">
+<nod>NL098</nod>
+<teideal>Promhadh Pinn</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="803">
+<nod>NL099</nod>
+<teideal>Filíocht Ghaeilge na Linne Seo</teideal>
+<bf>1968</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="804">
+<nod>NL102</nod>
+<teideal>Litríocht agus Léitheoireacht</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="805">
+<nod>NL103</nod>
+<teideal>Aistí Critice agus Cultúir I</teideal>
+<bf>1975</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="806">
+<nod>NL109</nod>
+<teideal>Éireannaigh san Eolaíocht</teideal>
+<bf>1966</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="807">
+<nod>NL110</nod>
+<teideal>File Callánach</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="808">
+<nod>NL111</nod>
+<teideal>Éan Corr</teideal>
+<bf>1937</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="809">
+<nod>NL112</nod>
+<teideal>Iolar agus Sionnach</teideal>
+<bf>1938</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="810">
+<nod>NL113</nod>
+<teideal>Teacht agus Imtheacht an Ghiolla Dheacair</teideal>
+<bf>1913</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="811">
+<nod>NL114</nod>
+<teideal>Gréasaidhe Luipreachán, An</teideal>
+<bf>1924</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="812">
+<nod>NL115</nod>
+<teideal>Bodach an Chóta Lachtna</teideal>
+<bf>1936</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="813">
+<nod>NL116</nod>
+<teideal>Bruidhean Chaorthainn</teideal>
+<bf>1912</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="814">
+<nod>NL120</nod>
+<teideal>Scéal na hIomána</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="815">
+<nod>NL121</nod>
+<teideal>Litríocht Réigiúnach, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="816">
+<nod>NL126</nod>
+<teideal>Nuala Ní Néill</teideal>
+<bf>1942</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="817">
+<nod>NL127</nod>
+<teideal>Slis de'n tSaoghal</teideal>
+<bf>1940</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="818">
+<nod>NL128</nod>
+<teideal>Fotha Feasa</teideal>
+<bf>1935</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="819">
+<nod>NL131</nod>
+<teideal>Don Ábhar Saoririseora</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="820">
+<nod>NL133</nod>
+<teideal>Oileáin Séanmhara, Na h-</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="821">
+<nod>NL134</nod>
+<teideal>Uraiceacht Ceoil</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="822">
+<nod>NL135</nod>
+<teideal>Mindealú agus Parsáil</teideal>
+<bf>1935</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="823">
+<nod>NL136</nod>
+<teideal>Dearg-ruathar Chonaill Chearnaigh</teideal>
+<bf>1907</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="824">
+<nod>NL137</nod>
+<teideal>Tuaith-Eoluidheacht</teideal>
+<bf>1934</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="825">
+<nod>NL141</nod>
+<teideal>Súil le Breith</teideal>
+<bf>1983</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="826">
+<nod>NL143</nod>
+<teideal>Algébar Iolscoile</teideal>
+<bf>1947</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="827">
+<nod>NL144</nod>
+<teideal>Cuirp-Eolas</teideal>
+<bf>1927</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="828">
+<nod>NL145</nod>
+<teideal>Leabhar Eóluis ar an gCreideamh</teideal>
+<bf>1947</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="829">
+<nod>NL147</nod>
+<teideal>Ceimic</teideal>
+<bf>1950</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="830">
+<nod>NL148</nod>
+<teideal>Trí Truagha na Scéaluidheachta</teideal>
+<bf>1932</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="831">
+<nod>NL153</nod>
+<teideal>Tíreóluidhe ar Éirinn</teideal>
+<bf>1924</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="832">
+<nod>NL154</nod>
+<teideal>Tír na hÉireann</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="833">
+<nod>NL155</nod>
+<teideal>Uimhrigheacht</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="834">
+<nod>NL159</nod>
+<teideal>Tine Chnámh</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="835">
+<nod>NL172</nod>
+<teideal>Breacadh</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="836">
+<nod>NL178</nod>
+<teideal>Muirthéacht na Frainnce</teideal>
+<bf>1930</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="837">
+<nod>NL180</nod>
+<teideal>Céimseata Chómhóirnidhtheach</teideal>
+<bf>1939</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="838">
+<nod>NL181</nod>
+<teideal>Nótaí ar Mhion-Áireamh</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="839">
+<nod>NL182</nod>
+<teideal>Cruinneolaidhe, An</teideal>
+<bf>1906</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="840">
+<nod>NL185</nod>
+<teideal>Láimh-leabhar Drámaidheachta</teideal>
+<bf>1938</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="841">
+<nod>NL186</nod>
+<teideal>Nuaidheachteóireacht ar Muir</teideal>
+<bf>1911</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="842">
+<nod>NL190</nod>
+<teideal>Peadar Ó Dubhda, A Shaol agus a Shaothar</teideal>
+<bf>1981</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="843">
+<nod>NL191</nod>
+<teideal>Ealaín na hAmharclainne</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="844">
+<nod>NL192</nod>
+<teideal>Béal Beo Ghaeilge ár Linne</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="845">
+<nod>NL194</nod>
+<teideal>File, An</teideal>
+<bf>1982</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="846">
+<nod>NL195</nod>
+<teideal>Feamainn</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="847">
+<nod>NL196</nod>
+<teideal>Cúntaisíocht</teideal>
+<bf>1924</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="848">
+<nod>NL197</nod>
+<teideal>Dialann Deoraí</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="849">
+<nod>NL198</nod>
+<teideal>Sweeney agus Scéalta Eile</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="850">
+<nod>NL199</nod>
+<teideal>Schnitzer Ó Sé</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="851">
+<nod>NL203</nod>
+<teideal>Almanag Éireannach</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="852">
+<nod>NL204</nod>
+<teideal>Ní Lia Tír</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="853">
+<nod>NL205</nod>
+<teideal>Beoir Bhaile</teideal>
+<bf>1981</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="854">
+<nod>NL206</nod>
+<teideal>For-Oideas Aigne-eolais do'n Aos Léighinn</teideal>
+<bf>1939</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="855">
+<nod>NL213</nod>
+<teideal>Cad ba dhóbair dó agus Sgeulta Eile</teideal>
+<bf>1920</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="856">
+<nod>NL214</nod>
+<teideal>Mhaireadar san Ardchathair</teideal>
+<bf>1957</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="857">
+<nod>NL215</nod>
+<teideal>Dánta an Lae Indiu (1929-1935)</teideal>
+<bf>1936</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="858">
+<nod>NL217</nod>
+<teideal>Dánta agus Duanta 1941-1947</teideal>
+<bf>1952</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="859">
+<nod>NL219</nod>
+<teideal>Nua-Dhánta</teideal>
+<bf>1919</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="860">
+<nod>NL220</nod>
+<teideal>Dánta agus Duanóga (1919-1929)</teideal>
+<bf>1929</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="861">
+<nod>NL223</nod>
+<teideal>Gaethe Gréine I - Aistidhe Duais Oireachtais</teideal>
+<bf>1919</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="862">
+<nod>NL230</nod>
+<teideal>Laidean tré Ghaedhilg</teideal>
+<bf>1941</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="863">
+<nod>NL233</nod>
+<teideal>Ó Ros Muc go Rostov</teideal>
+<bf>1972</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="864">
+<nod>NL235</nod>
+<teideal>Eachtraí Taiscealaíochta</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="865">
+<nod>NL237</nod>
+<teideal>Dánlann Náisiúnta, An</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="866">
+<nod>NL240</nod>
+<teideal>Mo Thuras go hAmerice nó Imeasg na nGaedheal ins an Oileán Úr</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="867">
+<nod>NL241</nod>
+<teideal>Úbhla de'n Chraoibh</teideal>
+<bf>1900</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="868">
+<nod>NL243</nod>
+<teideal>Sracfhéachaint</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="869">
+<nod>NL244</nod>
+<teideal>Turas na Croise</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="870">
+<nod>NL245</nod>
+<teideal>Diagacht don Phobal 1</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="871">
+<nod>NL249</nod>
+<teideal>Mo Chara Stiofán</teideal>
+<bf>1939</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="872">
+<nod>NL251</nod>
+<teideal>Mise agus An Connradh</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="873">
+<nod>NL252</nod>
+<teideal>Tír-Eólas na hEórpa</teideal>
+<bf>1923</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="874">
+<nod>NL258</nod>
+<teideal>Dómhnaill Ó Conaill</teideal>
+<bf>1949</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="875">
+<nod>NL259</nod>
+<teideal>Parnell</teideal>
+<bf>1937</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="876">
+<nod>NL262</nod>
+<teideal>Líníocht Mheicniúil Don Mheánteistiméireacht</teideal>
+<bf>1983</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="877">
+<nod>NL263</nod>
+<teideal>Fisic I, II</teideal>
+<bf>1940</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="878">
+<nod>NL264</nod>
+<teideal>Fisic III - Teas</teideal>
+<bf>1940</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="879">
+<nod>NL265</nod>
+<teideal>Fisic IV - Meicnic</teideal>
+<bf>1940</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="880">
+<nod>NL266</nod>
+<teideal>Sármháistrí na hIodáile</teideal>
+<bf>1956</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="881">
+<nod>NL271</nod>
+<teideal>Múinteoir Ex Machina - Teicneolaíocht an Oideachais agus an Múinteoir Teanga</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="882">
+<nod>NL272</nod>
+<teideal>Official Correspondence Relating to the Peace Negotiations, June-September 1921</teideal>
+<bf>1921</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="883">
+<nod>NL273</nod>
+<teideal>Salfáthóir Gaedhealach, An</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="884">
+<nod>NL274</nod>
+<teideal>Éire Roimh an nGorta - An Saol Eacnamaíoch</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="885">
+<nod>NL277</nod>
+<teideal>Filí Faoi Sceimhle</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="886">
+<nod>NL279</nod>
+<teideal>Truailliú ar Éirinn?</teideal>
+<bf>1980</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="887">
+<nod>NL280</nod>
+<teideal>Siar Trí na Portaigh</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="888">
+<nod>NL281</nod>
+<teideal>Amhráin Áthais</teideal>
+<bf>1937</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="889">
+<nod>NL283</nod>
+<teideal>Ceol Rince na hÉireann, Cuid 3</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="890">
+<nod>NL285</nod>
+<teideal>So Súd</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="891">
+<nod>NL286</nod>
+<teideal>Léargas ar Stair na Linne 1 - An Eoraip agus an Domhan 1850-1939</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="892">
+<nod>NL290</nod>
+<teideal>Ciall agus Creideamh</teideal>
+<bf>1979</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="893">
+<nod>NL291</nod>
+<teideal>Eolaidhe na Cruinne</teideal>
+<bf>1924</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="894">
+<nod>NL292</nod>
+<teideal>Ó Shíol go Fómhar</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="895">
+<nod>NL297</nod>
+<teideal>Aer</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="896">
+<nod>NL301</nod>
+<teideal>Ocht nAmhrán le Tionlacan Cruit</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="897">
+<nod>NL310</nod>
+<teideal>Stair na nDéise .i. Déise Mumhan, dúthaigh Déaglán ó thosach go dtí A.D. 1108</teideal>
+<bf>1938</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="898">
+<nod>NL311</nod>
+<teideal>Stair na hEorpa I</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="899">
+<nod>NL312</nod>
+<teideal>Searmónta Aniar</teideal>
+<bf>1952</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="900">
+<nod>NL313</nod>
+<teideal>Bheatha Chríostaidhe, An</teideal>
+<bf>1948</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="901">
+<nod>NL314</nod>
+<teideal>Stair na hEorpa 1</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="902">
+<nod>NL315</nod>
+<teideal>Stair na hEorpa 3</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="903">
+<nod>NL318</nod>
+<teideal>Airgead Beo</teideal>
+<bf>1944</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="904">
+<nod>NL319</nod>
+<teideal>Mairtíreach Meicsiceach</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="905">
+<nod>NL320</nod>
+<teideal>Aodh Mac Aingil agus an Scoil Nua-Ghaeilge i Lobháin</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="906">
+<nod>NL321</nod>
+<teideal>Diagacht don Phobal 2</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="907">
+<nod>NL322</nod>
+<teideal>Algébar I</teideal>
+<bf>1913</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="908">
+<nod>NL323</nod>
+<teideal>Algébar II</teideal>
+<bf>1931</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="909">
+<nod>NL325</nod>
+<teideal>Comhacht Uisce in Éirinn</teideal>
+<bf>1919</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="910">
+<nod>NL328</nod>
+<teideal>I bPrionta i Leabhar, Na Protastúin agus Prós na Gaeilge 1567-1724</teideal>
+<bf>1986</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="911">
+<nod>NL331</nod>
+<teideal>Lárchanúint don Ghaeilge</teideal>
+<bf>1986</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="912">
+<nod>NL342</nod>
+<teideal>Deoraithe</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="913">
+<nod>NL343</nod>
+<teideal>Duanaire Diadha</teideal>
+<bf>1920</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="914">
+<nod>NL350</nod>
+<teideal>Chaise Gharbh, An</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="915">
+<nod>NL351</nod>
+<teideal>Tiomna Naomhtha agus Dánta Eile, An</teideal>
+<bf>1931</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="916">
+<nod>NL352</nod>
+<teideal>Caitheamh Aimsire</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="917">
+<nod>NL353</nod>
+<teideal>Leoithne Andeas</teideal>
+<bf>1905</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="918">
+<nod>NL355</nod>
+<teideal>Fiche Duan</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="919">
+<nod>NL356</nod>
+<teideal>Áille an Domhain</teideal>
+<bf>1927</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="920">
+<nod>NL357</nod>
+<teideal>Maidean i mBéarra agus Dánta Eile</teideal>
+<bf>1918</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="921">
+<nod>NL358</nod>
+<teideal>Uaigneas</teideal>
+<bf>1928</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="922">
+<nod>NL359</nod>
+<teideal>Inghean Mhanannáin : laoi-sgéal</teideal>
+<bf>1922</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="923">
+<nod>NL360</nod>
+<teideal>Féile na nÓglach</teideal>
+<bf>1921</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="924">
+<nod>NL363</nod>
+<teideal>Saibhreas faoi Thalamh</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="925">
+<nod>NL364</nod>
+<teideal>Geomoirfeolaíocht</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="926">
+<nod>NL365</nod>
+<teideal>Cúrsa Tosaigh Foghraíochta</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="927">
+<nod>NL366</nod>
+<teideal>Sealbhú Teanga agus Múineadh na Gaeilge - Trí Aiste</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="928">
+<nod>NL369</nod>
+<teideal>Astronár</teideal>
+<bf>1928</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="929">
+<nod>NL375</nod>
+<teideal>Lá agus Oidhche</teideal>
+<bf>1929</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="930">
+<nod>NL376</nod>
+<teideal>Athbheochan na Gaeilge - Páipéar Bán</teideal>
+<bf>1965</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="931">
+<nod>NL380</nod>
+<teideal>Tótamas in Éirinn</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="932">
+<nod>NL381</nod>
+<teideal>Ag Críost an Saol</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="933">
+<nod>NL382</nod>
+<teideal>Oideachas in Éirinn 1500-1946</teideal>
+<bf>1955</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="934">
+<nod>NL385</nod>
+<teideal>Corpoideachas sna Bunscoileanna, An</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="935">
+<nod>NL386</nod>
+<teideal>Litríocht, Léitheoireacht, Critic</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="936">
+<nod>NL387</nod>
+<teideal>Cúrsaí Thomáis</teideal>
+<bf>1927</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="937">
+<nod>NL390</nod>
+<teideal>Réabhlóid Sóisialta, An</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="938">
+<nod>NL391</nod>
+<teideal>Duine, Córais Pholaitiúla agus Éire, An</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="939">
+<nod>NL392</nod>
+<teideal>Gaineamh is Gaoth</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="940">
+<nod>NL394</nod>
+<teideal>Uisce</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="941">
+<nod>NL395</nod>
+<teideal>Urlabhra agus Pobal</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="942">
+<nod>NL396</nod>
+<teideal>Síceolaíocht: Sícé ár Linne</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="943">
+<nod>NL397</nod>
+<teideal>Léachtaí Uí Chadhain</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="944">
+<nod>NL398</nod>
+<teideal>Tost agus Sgéalta Eile, An</teideal>
+<bf>1927</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="945">
+<nod>NL399</nod>
+<teideal>Lucht Ceoil</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="946">
+<nod>NL400</nod>
+<teideal>Tuaim Inbheir &amp; Dánta Eile</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="947">
+<nod>NL401</nod>
+<teideal>Fraoch is Fothannáin</teideal>
+<bf>1938</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="948">
+<nod>NL402</nod>
+<teideal>Síol na Saoirse</teideal>
+<bf>1910</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="949">
+<nod>NL403</nod>
+<teideal>Mo Dhá Mhicí</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="950">
+<nod>NL405</nod>
+<teideal>Irish Numerals and How to Use Them</teideal>
+<bf>1922</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="951">
+<nod>NL406</nod>
+<teideal>Eólas ar Áireamh</teideal>
+<bf>1912</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="952">
+<nod>NL407</nod>
+<teideal>Foras Feasa ar Theagasc na h-Eaglaise</teideal>
+<bf>1946</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="953">
+<nod>NL408</nod>
+<teideal>Teagasc Moralta na hEaglaise</teideal>
+<bf>1946</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="954">
+<nod>NL409</nod>
+<teideal>Nótaí cleachttha ar an gcéimíocht maille le cláir anailíse de lucht na céad-bhliadhna: do réir mar teagascthar an t-adhbhar seo i gColáiste na hOllscoile, Gaillimh</teideal>
+<bf>1952</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="955">
+<nod>NL410</nod>
+<teideal>Díon-Chruthughadh an Chreidimh</teideal>
+<bf>1936</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="956">
+<nod>NL411</nod>
+<teideal>Lomnochtán, An</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="957">
+<nod>NL412</nod>
+<teideal>L'Attaque</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="958">
+<nod>NL413</nod>
+<teideal>Dianmhuilte Dé</teideal>
+<bf>1963</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="959">
+<nod>NL414</nod>
+<teideal>Bheatha Phleisiúrtha, An</teideal>
+<bf>1955</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="960">
+<nod>NL415</nod>
+<teideal>Corpeolaíocht agus Sláinteachas</teideal>
+<bf>1957</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="961">
+<nod>NL416</nod>
+<teideal>Caoin Tú Féin</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="962">
+<nod>NL417</nod>
+<teideal>Muintir</teideal>
+<bf>1971</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="963">
+<nod>NL418</nod>
+<teideal>Maeldún</teideal>
+<bf>1972</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="964">
+<nod>NL419</nod>
+<teideal>Uain Bheo, An</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="965">
+<nod>NL421</nod>
+<teideal>Ceannracháin Cathrach</teideal>
+<bf>1935</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="966">
+<nod>NL422</nod>
+<teideal>Beatha Naoimh Maolmhodhaigh</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="967">
+<nod>NL423</nod>
+<teideal>Torolbh Mac Stairn</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="968">
+<nod>NL424</nod>
+<teideal>Blaithfhleasg de Mhílseáinibh na Gaoidheilge</teideal>
+<bf>1893</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="969">
+<nod>NL425</nod>
+<teideal>Oidhe Chloinne Uisnigh</teideal>
+<bf>1898</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="970">
+<nod>NL426</nod>
+<teideal>Oidhe Chloinne Tuireann</teideal>
+<bf>1889</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="971">
+<nod>NL427</nod>
+<teideal>Beatha Mhuire</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="972">
+<nod>NL428</nod>
+<teideal>Beatha Phádraig</teideal>
+<bf>1940</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="973">
+<nod>NL429</nod>
+<teideal>Gadaidhe Géar na Geamh-Oidhche</teideal>
+<bf>1915</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="974">
+<nod>NL430</nod>
+<teideal>Tochmarc Fhearbhlaidhe</teideal>
+<bf>1916</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="975">
+<nod>NL432</nod>
+<teideal>Duanaire na Nuadh-Ghaedhilge</teideal>
+<bf>1891</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="976">
+<nod>NL433</nod>
+<teideal>Cuisle na hÉigse</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="977">
+<nod>NL434</nod>
+<teideal>Nihil Obstat</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="978">
+<nod>NL435</nod>
+<teideal>Seabhac ag Guairdeall</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="979">
+<nod>NL436</nod>
+<teideal>Dialann sa Díseart</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="980">
+<nod>NL437</nod>
+<teideal>Bealach Éadóigh, An</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="981">
+<nod>NL438</nod>
+<teideal>Seachrán Ruairí agus Dánta Eile</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="982">
+<nod>NL439</nod>
+<teideal>Giotár Meisce, An</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="983">
+<nod>NL440</nod>
+<teideal>Tóraidheacht an Ghiolla Dheacair agus A Chapaill</teideal>
+<bf>1939</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="984">
+<nod>NL441</nod>
+<teideal>Gealach Reatha</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="985">
+<nod>NL442</nod>
+<teideal>Gairdín Phárthais agus Dánta Eile</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="986">
+<nod>NL443</nod>
+<teideal>Baisteadh Gintlí</teideal>
+<bf>1986</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="987">
+<nod>NL444</nod>
+<teideal>Gairdín Mo Sheanuncail is Dánta Eile</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="988">
+<nod>NL445</nod>
+<teideal>Oíche Ghréine</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="989">
+<nod>NL446</nod>
+<teideal>Eoghan Ó Tuairisc - Beatha agus Saothar</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="990">
+<nod>NL447</nod>
+<teideal>Diarmaid Mac Chearbhaill</teideal>
+<bf>1950</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="991">
+<nod>NL448</nod>
+<teideal>Dánta</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="992">
+<nod>NL449</nod>
+<teideal>De Bharr na gCnoc</teideal>
+<bf>1954</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="993">
+<nod>NL450</nod>
+<teideal>Súile an Íodhail</teideal>
+<bf>1945</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="994">
+<nod>NL451</nod>
+<teideal>Soir ón Rio Grande</teideal>
+<bf>1949</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="995">
+<nod>NL452</nod>
+<teideal>Réics Carló ar Dhá Eachtra Eile</teideal>
+<bf>1950</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="996">
+<nod>NL453</nod>
+<teideal>Réics Carló san Aifric</teideal>
+<bf>1951</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="997">
+<nod>NL454</nod>
+<teideal>Réics Carló - San Éigipt</teideal>
+<bf>1951</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="998">
+<nod>NL455</nod>
+<teideal>Cás an Mhilliúnaí Mhairbh</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="999">
+<nod>NL456</nod>
+<teideal>Miontuairiscí an Chéad Dála 1919-1921</teideal>
+<bf>1921</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1000">
+<nod>NL459</nod>
+<teideal>Fhiannuidheacht, An</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1001">
+<nod>NL460</nod>
+<teideal>Tiomna Nuadh Eipistle agus Taisbeánadh</teideal>
+<bf>1948</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1002">
+<nod>NL461</nod>
+<teideal>Duibhlinn</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1003">
+<nod>NL462</nod>
+<teideal>Kinderszenen</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1004">
+<nod>NL463</nod>
+<teideal>Conamara Faoi Cheilt</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1005">
+<nod>NL464</nod>
+<teideal>Féara agus Bánta Éireann</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1006">
+<nod>NL465</nod>
+<teideal>Fisic Shinsearach 3 - Leictreachas</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1007">
+<nod>NL466</nod>
+<teideal>Seomra Ranga, An</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1008">
+<nod>NL468</nod>
+<teideal>Fisic Shinsearach 1 - Meicnic agus tonnghluaisne mheicniúil</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1009">
+<nod>NL469</nod>
+<teideal>Fisic Shinsearach 2 - Teas</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1010">
+<nod>NL470</nod>
+<teideal>Fisic Shinsearach 4 - Solas</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1011">
+<nod>NL471</nod>
+<teideal>Eacnamaíocht Bhaile 2000 - Cuid 1</teideal>
+<bf>1992</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="1012">
+<nod>NL472</nod>
+<teideal>Aisling agus Tóir</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1013">
+<nod>NL474</nod>
+<teideal>Cineál Féichín agus Síol Anmachadha</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1014">
+<nod>NL475</nod>
+<teideal>Trí Torpáin</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1015">
+<nod>NL476</nod>
+<teideal>Conntae an Chláir</teideal>
+<bf>1938</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1016">
+<nod>NL477</nod>
+<teideal>Cé hÍ Seo Amuigh?</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1017">
+<nod>NL478</nod>
+<teideal>Cáith agus Grán</teideal>
+<bf>1929</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1018">
+<nod>NL479</nod>
+<teideal>Thríd an Fhuinneoig</teideal>
+<bf>1936</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1019">
+<nod>NL481</nod>
+<teideal>Léirmheastóir, An</teideal>
+<bf>1931</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1020">
+<nod>NL482</nod>
+<teideal>Gearrscéal sa Ghaeilge 1898-1940, An</teideal>
+<bf>1981</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1021">
+<nod>NL483</nod>
+<teideal>Díolaim Luibheanna</teideal>
+<bf>1993</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1022">
+<nod>NL484</nod>
+<teideal>Cíocras</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1023">
+<nod>NL485</nod>
+<teideal>Holy Cow - Sin Ceann Mór</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1024">
+<nod>NL486</nod>
+<teideal>Feis</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1025">
+<nod>NL487</nod>
+<teideal>Díreach Chun Dé</teideal>
+<bf>1992</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1026">
+<nod>NL489</nod>
+<teideal>Ciste Cúrsaí Reatha</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1027">
+<nod>NL491</nod>
+<teideal>Úrscéal Gaeilge, An t-</teideal>
+<bf>1991</bf>
+<bl_prl>2019</bl_prl>
+</leabhar>
+<leabhar id="1028">
+<nod>NL492</nod>
+<teideal>Ár dTimpeallacht Logainmneacha</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1029">
+<nod>NL493</nod>
+<teideal>Seán Ó Ríordáin (1916-1977)</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1030">
+<nod>NL494</nod>
+<teideal>Féar Suaithinseach</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1031">
+<nod>NL495</nod>
+<teideal>Dealg Droighin, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1032">
+<nod>NL496</nod>
+<teideal>Margadh na Saoire</teideal>
+<bf>1956</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1033">
+<nod>NL497</nod>
+<teideal>Miss Crookshank agus Coirp Eile</teideal>
+<bf>1951</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1034">
+<nod>NL498</nod>
+<teideal>Cnuasach 1966</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1035">
+<nod>NL499</nod>
+<teideal>Ridire Mhuire gan Smál</teideal>
+<bf>1951</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1036">
+<nod>NL500</nod>
+<teideal>Fiontán Ó Leathlobhair</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1037">
+<nod>NL501</nod>
+<teideal>Trá agus Tuileadh</teideal>
+<bf>1967</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1038">
+<nod>NL502</nod>
+<teideal>Dochtúireacht Baile</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1039">
+<nod>NL503</nod>
+<teideal>Oilibhéar Pluincéid</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1040">
+<nod>NL504</nod>
+<teideal>Seandaoine</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1041">
+<nod>NL506</nod>
+<teideal>Slán le hUltaibh</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1042">
+<nod>NL507</nod>
+<teideal>Noda</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1043">
+<nod>NL508</nod>
+<teideal>Damhna agus Dánta eile</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1044">
+<nod>NL509</nod>
+<teideal>Lux Aeterna</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1045">
+<nod>NL510</nod>
+<teideal>Bhliain Bhisigh, An</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1046">
+<nod>NL511</nod>
+<teideal>Faoi Léigear</teideal>
+<bf>1980</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1047">
+<nod>NL512</nod>
+<teideal>Gleann ar Ghleann</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1048">
+<nod>NL513</nod>
+<teideal>Róisín Fiain na Mara</teideal>
+<bf>1924</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1049">
+<nod>NL515</nod>
+<teideal>Lann Tolédo, An</teideal>
+<bf>1957</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1050">
+<nod>NL516</nod>
+<teideal>Máire Nic Artáin</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1051">
+<nod>NL517</nod>
+<teideal>Branar gan Cur, An</teideal>
+<bf>1979</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1052">
+<nod>NL518</nod>
+<teideal>Saol na mBeach</teideal>
+<bf>1974</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1053">
+<nod>NL520</nod>
+<teideal>Litríocht agus Pobal</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1054">
+<nod>NL521</nod>
+<teideal>Amaidí</teideal>
+<bf>1951</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1055">
+<nod>NL522</nod>
+<teideal>Cuairt ar Albain</teideal>
+<bf>1947</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1056">
+<nod>NL524</nod>
+<teideal>Ceol na Coille</teideal>
+<bf>1955</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1057">
+<nod>NL525</nod>
+<teideal>Stair-Sheanchas Éireann I</teideal>
+<bf>1922</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1058">
+<nod>NL526</nod>
+<teideal>Stair-Sheanchas Éireann II</teideal>
+<bf>1933</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1059">
+<nod>NL527</nod>
+<teideal>Néal Maidine agus Tine Oíche</teideal>
+<bf>1964</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1060">
+<nod>NL528</nod>
+<teideal>Leabhar Filidheachta Fá Choinne na Scoil</teideal>
+<bf>1909</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1061">
+<nod>NL529</nod>
+<teideal>Réics Carló i nDún na nGall</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1062">
+<nod>NL530</nod>
+<teideal>Páidín Ó Ceallaigh maille le Sgéaltaí agus Agallmha</teideal>
+<bf>1922</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1063">
+<nod>NL531</nod>
+<teideal>Gort na Gréine</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1064">
+<nod>NL532</nod>
+<teideal>Ceart na Sua</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1065">
+<nod>NL533</nod>
+<teideal>Ceo Meala Lá Seaca</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1066">
+<nod>NL534</nod>
+<teideal>Mícheál Cíosóg</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1067">
+<nod>NL535</nod>
+<teideal>Colm Cille</teideal>
+<bf>1936</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1068">
+<nod>NL536</nod>
+<teideal>Sgéal Sheandúin</teideal>
+<bf>1920</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1069">
+<nod>NL537</nod>
+<teideal>Íosagán agus Sgéalta Eile</teideal>
+<bf>1920</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1070">
+<nod>NL538</nod>
+<teideal>Mháthair &amp; Sgéalta Eile, An</teideal>
+<bf>1918</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1071">
+<nod>NL541</nod>
+<teideal>Grádh &amp; Crádh</teideal>
+<bf>1905</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1072">
+<nod>NL543</nod>
+<teideal>Cúirt na Dála agus Sgéal Eile</teideal>
+<bf>1918</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1073">
+<nod>NL544</nod>
+<teideal>Ar Lorg an t-Seanchaidhe</teideal>
+<bf>1915</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1074">
+<nod>NL544b</nod>
+<teideal>Seanchaidhe, An</teideal>
+<bf>1915</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1075">
+<nod>NL545</nod>
+<teideal>Fiacha Mac Aodha Ua Broin</teideal>
+<bf>1908</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1076">
+<nod>NL546</nod>
+<teideal>Mac Dathó</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1077">
+<nod>NL547</nod>
+<teideal>Dlí na Feirme</teideal>
+<bf>1965</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1078">
+<nod>NL549</nod>
+<teideal>Is é a Dúirt Polonius</teideal>
+<bf>1973</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1079">
+<nod>NL551</nod>
+<teideal>Lámhleabhar Seanfhocal</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1080">
+<nod>NL552</nod>
+<teideal>Saothar ár Sean i gCéin</teideal>
+<bf>1904</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1081">
+<nod>NL553</nod>
+<teideal>Aggiornamento</teideal>
+<bf>1969</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1082">
+<nod>NL554</nod>
+<teideal>Eithne nó Éan an Cheoil Bhinn</teideal>
+<bf>1910</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1083">
+<nod>NL555</nod>
+<teideal>Bhean Chródha, An</teideal>
+<bf>1931</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1084">
+<nod>NL556</nod>
+<teideal>Diarmuid agus Gráinne</teideal>
+<bf>1935</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1085">
+<nod>NL557</nod>
+<teideal>Sgaothaire agus Cúig Drámaí Eile, An</teideal>
+<bf>1929</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1086">
+<nod>NL558</nod>
+<teideal>Moloney agus Drámaí Eile</teideal>
+<bf>1966</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1087">
+<nod>NL559</nod>
+<teideal>Iníon Rí na Spáinne</teideal>
+<bf>1978</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1088">
+<nod>NL560</nod>
+<teideal>Lá Fhéile Míchíl</teideal>
+<bf>1967</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1089">
+<nod>NL561</nod>
+<teideal>Baintighearna an Ghorta</teideal>
+<bf>1944</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1090">
+<nod>NL562</nod>
+<teideal>Danar, An</teideal>
+<bf>1929</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1091">
+<nod>NL563</nod>
+<teideal>Oighreacht na Mara</teideal>
+<bf>0</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1092">
+<nod>NL564</nod>
+<teideal>Scéal an Tighe</teideal>
+<bf>1952</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1093">
+<nod>NL565</nod>
+<teideal>Dúthchas, An</teideal>
+<bf>1908</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1094">
+<nod>NL566</nod>
+<teideal>Triail, An / Breithiúnas</teideal>
+<bf>1978</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1095">
+<nod>NL567</nod>
+<teideal>Cóta Bán Chríost</teideal>
+<bf>1968</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1096">
+<nod>NL568</nod>
+<teideal>Ceachta Mion-Eoluis i gCóir Leanbhaí Scoile</teideal>
+<bf>1906</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1097">
+<nod>NL570</nod>
+<teideal>Tincéir agus an tSídheóg, An</teideal>
+<bf>1934</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1098">
+<nod>NL571</nod>
+<teideal>Fé Bhrat an Chonnartha</teideal>
+<bf>1944</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1099">
+<nod>NL572</nod>
+<teideal>Leabhar Ar Áireamh - An Chéad Chuid</teideal>
+<bf>1910</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1100">
+<nod>NL573</nod>
+<teideal>Doras Dúnta, An</teideal>
+<bf>1953</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1101">
+<nod>NL574</nod>
+<teideal>Suantraidh agus Goltraidhe</teideal>
+<bf>1914</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1102">
+<nod>NL575</nod>
+<teideal>Casadh an tSúgáin</teideal>
+<bf>1901</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1103">
+<nod>NL576</nod>
+<teideal>Faoistin Bhacach</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1104">
+<nod>NL577</nod>
+<teideal>Fear na Milliún Punt</teideal>
+<bf>1915</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1105">
+<nod>NL578</nod>
+<teideal>Déirc an Dóchais - Léamh ar Shaothar Phádhraic Óig Uí Chonaire</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1106">
+<nod>NL579</nod>
+<teideal>Dúil is Dual, An</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1107">
+<nod>NL580</nod>
+<teideal>Paidir File</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1108">
+<nod>NL581</nod>
+<teideal>Leabhar Nóra Ní Anluain</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1109">
+<nod>NL582</nod>
+<teideal>Cultúr agus Teicneolaíocht sa Ghaeltacht</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1110">
+<nod>NL583</nod>
+<teideal>Saoi na hÉigse</teideal>
+<bf>2000</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1111">
+<nod>NL584</nod>
+<teideal>Claíomh Solais, An</teideal>
+<bf>1998</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1112">
+<nod>NL585</nod>
+<teideal>Ceachta na hEaladhan : i nGaedhilg agus i Saxbhéarla</teideal>
+<bf>1909</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1113">
+<nod>NL586</nod>
+<teideal>Désirée</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1114">
+<nod>NL587</nod>
+<teideal>Saothar Suadha : Cuid a hAon</teideal>
+<bf>1908</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1115">
+<nod>NL588</nod>
+<teideal>Saothar Suadha : Cuid a Dó</teideal>
+<bf>1912</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1116">
+<nod>NL589</nod>
+<teideal>Comhad Comhairleora</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1117">
+<nod>NL590</nod>
+<teideal>Dealbhóir sa nGáirdín, An</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1118">
+<nod>NL591</nod>
+<teideal>Geineasas</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1119">
+<nod>NL593</nod>
+<teideal>Coiscéim na hAoise Seo</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1120">
+<nod>NL595</nod>
+<teideal>Máistir an Bhaile</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1121">
+<nod>NL598</nod>
+<teideal>Táin Bó Cuailgne</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1122">
+<nod>NL599</nod>
+<teideal>Drúcht ar Chneas</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1123">
+<nod>NL600</nod>
+<teideal>John Boyle O'Reilly agus An Glór Gael-Mheiriceánach</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1124">
+<nod>NL602</nod>
+<teideal>Krauts</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1125">
+<nod>NL604</nod>
+<teideal>Idir Dhá Chultúr</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1126">
+<nod>NL605</nod>
+<teideal>Bás Bharra agus Scéalta Eile</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1127">
+<nod>NL606</nod>
+<teideal>Máiréad Ní Ghráda : Ceannródaí Drámaíochta</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1128">
+<nod>NL607</nod>
+<teideal>Pádraic Ó Conaire : Scéal a Bheatha</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1129">
+<nod>NL608</nod>
+<teideal>Gnéithe d'Amhráin Chonamara ár Linne</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1130">
+<nod>NL609</nod>
+<teideal>Úna Bhán</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1131">
+<nod>NL611</nod>
+<teideal>Sprioc</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1132">
+<nod>NL612</nod>
+<teideal>Bróg Khruschev agus Scéalta Eile</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1133">
+<nod>NL613</nod>
+<teideal>Cion</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1134">
+<nod>NL614</nod>
+<teideal>Aililiú Seo Chugainn Bricriu</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1135">
+<nod>NL615</nod>
+<teideal>Amanathar</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1136">
+<nod>NL616</nod>
+<teideal>Ar Aghaidh Linn a Longadáin</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1137">
+<nod>NL617</nod>
+<teideal>Ór-sgeul an Chreidimh</teideal>
+<bf>1911</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1138">
+<nod>NL618</nod>
+<teideal>Maon</teideal>
+<bf>1924</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1139">
+<nod>NL619</nod>
+<teideal>Árus na nGabhadh agus Sgéalta Eile</teideal>
+<bf>1923</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1140">
+<nod>NL620</nod>
+<teideal>Ciorcal Meiteamorfach</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1141">
+<nod>NL621</nod>
+<teideal>Fabhalscéalta</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1142">
+<nod>NL622</nod>
+<teideal>Troigh ar an Tairne agus Scéalta Eile, An</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1143">
+<nod>NL623</nod>
+<teideal>Fear Marbh, An</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1144">
+<nod>NL624</nod>
+<teideal>Ní Mian léi an Fhilíocht Níos Mó</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1145">
+<nod>NL625</nod>
+<teideal>Do Lorg : Dánta agus Aortha - Traces de ton Passage</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1146">
+<nod>NL626</nod>
+<teideal>Éigse Bhradach</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1147">
+<nod>NL628</nod>
+<teideal>Oráistí</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1148">
+<nod>NL630</nod>
+<teideal>Rogha Rosenstock</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1149">
+<nod>NL631</nod>
+<teideal>Scuais</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1150">
+<nod>NL632</nod>
+<teideal>Spíonáin is Róiseanna</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1151">
+<nod>NL633</nod>
+<teideal>Teachtaire Robeson</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1152">
+<nod>NL635</nod>
+<teideal>Cúigiú Díochlaonadh, An</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1153">
+<nod>NL636</nod>
+<teideal>Ar Ais Arís</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1154">
+<nod>NL637</nod>
+<teideal>Fothrach Folamh gan Aird</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1155">
+<nod>NL638</nod>
+<teideal>Cion Mná</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1156">
+<nod>NL639</nod>
+<teideal>Is Furasta Fuint le Fear as na Minna</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1157">
+<nod>NL640</nod>
+<teideal>Éagnairc</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1158">
+<nod>NL641</nod>
+<teideal>Antraipeologicals, Na h-</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1159">
+<nod>NL642</nod>
+<teideal>Parthas na gCleas</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1160">
+<nod>NL643</nod>
+<teideal>Peaca an tSinsir</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1161">
+<nod>NL644</nod>
+<teideal>Stigmata</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1162">
+<nod>NL645</nod>
+<teideal>Tearmann na gColúr</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1163">
+<nod>NL646</nod>
+<teideal>Gunna Bhaile Trant</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1164">
+<nod>NL647</nod>
+<teideal>Ionsaí</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1165">
+<nod>NL648</nod>
+<teideal>Jackie Mo Dheartháir</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1166">
+<nod>NL649</nod>
+<teideal>Liam na Leisce agus Teach na Gaoithe</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1167">
+<nod>NL650</nod>
+<teideal>Níl aon dul ón gCinniúint</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1168">
+<nod>NL651</nod>
+<teideal>Oscar Óg</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1169">
+<nod>NL652</nod>
+<teideal>Pádraicín Is Ainm Dom</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1170">
+<nod>NL653</nod>
+<teideal>Réalta sa Dorchadas</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1171">
+<nod>NL654</nod>
+<teideal>Sláinte - Deich mBliana de Chló Iar-Chonnachta</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1172">
+<nod>NL655</nod>
+<teideal>Bád sa Chuan, An</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1173">
+<nod>NL657</nod>
+<teideal>Phluais Ama, An</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1174">
+<nod>NL658</nod>
+<teideal>Punk agus Scéalta Eile, An</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1175">
+<nod>NL659</nod>
+<teideal>Taistealaí, An</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1176">
+<nod>NL660</nod>
+<teideal>Ar Shliabh Coimeálta</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1177">
+<nod>NL661</nod>
+<teideal>Cleasaithe</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1178">
+<nod>NL662</nod>
+<teideal>Dialann Chaoimhe</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1179">
+<nod>NL664</nod>
+<teideal>Eachtraí Samhraidh</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1180">
+<nod>NL665</nod>
+<teideal>Ecstasy agus Scéalta Eile</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1181">
+<nod>NL666</nod>
+<teideal>Labhraí</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1182">
+<nod>NL668</nod>
+<teideal>Robáil gan Foréigean</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1183">
+<nod>NL669</nod>
+<teideal>Ríocht na hAbhann</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1184">
+<nod>NL670</nod>
+<teideal>Splanctha</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1185">
+<nod>NL671</nod>
+<teideal>Spreacaí</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1186">
+<nod>NL672</nod>
+<teideal>Sútha Talún agus Drámaí eile</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1187">
+<nod>NL673</nod>
+<teideal>Fáinne an Lae agus an Athbheochan 1898-1900</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1188">
+<nod>NL674</nod>
+<teideal>I dTreo Teanga Nua</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1189">
+<nod>NL679</nod>
+<teideal>Cuir Gaeilge Air!</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1190">
+<nod>NL680</nod>
+<teideal>Caoine agus an Chaointeoireacht, An</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1191">
+<nod>NL681</nod>
+<teideal>Modh Díreach, An</teideal>
+<bf>1922</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1192">
+<nod>NL682</nod>
+<teideal>Tuaith agus Cathair Cuid 1</teideal>
+<bf>1935</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1193">
+<nod>NL683</nod>
+<teideal>Abhráin atá leagtha ar an Reachtabhrach</teideal>
+<bf>1903</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1194">
+<nod>NL684</nod>
+<teideal>Tríú Adamhbhomba, An</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1195">
+<nod>NL685</nod>
+<teideal>Cladóir agus Scéalta Eile</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1196">
+<nod>NL686</nod>
+<teideal>Rún agus Scéalta Eile, An</teideal>
+<bf>1932</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1197">
+<nod>NL687</nod>
+<teideal>Cailín Aimsire Abú, An</teideal>
+<bf>1953</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1198">
+<nod>NL688</nod>
+<teideal>Grádh Níos Mó</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1199">
+<nod>NL689</nod>
+<teideal>Léitheoireacht agus Caitheamh Aimsire Buachaillí an Bhaile Mhóir</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1200">
+<nod>NL690</nod>
+<teideal>Rosc Catha na Gaedhilge agus Dánta Eile</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1201">
+<nod>NL691</nod>
+<teideal>Faoin mBlaoisc Bheag Sin - An Aigneolaíocht i Scéalta Mháirtín Uí Chadhain</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1202">
+<nod>NL693</nod>
+<teideal>Trodairí na Treas Briogáide</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1203">
+<nod>NL694</nod>
+<teideal>Tíogar Daonna, An</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1204">
+<nod>NL695</nod>
+<teideal>Síoladóirí</teideal>
+<bf>1947</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1205">
+<nod>NL698</nod>
+<teideal>Emmet</teideal>
+<bf>1954</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1206">
+<nod>NL699</nod>
+<teideal>Comhcheilg sa Chaisleán</teideal>
+<bf>1963</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1207">
+<nod>NL700</nod>
+<teideal>Stair na Rómha</teideal>
+<bf>1947</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="1208">
+<nod>NL701</nod>
+<teideal>Filíocht Uladh 1960-1985</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1209">
+<nod>NL702</nod>
+<teideal>Ceol Rince na hÉireann, Cuid 1</teideal>
+<bf>1972</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1210">
+<nod>NL703</nod>
+<teideal>Ceol Rince na hÉireann, Cuid 2</teideal>
+<bf>1976</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1211">
+<nod>NL704</nod>
+<teideal>Ceardlann '85</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1212">
+<nod>NL705</nod>
+<teideal>Comhchaidreamh, Crann a Chraobhaigh: Cnuasach Aistí, An</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1213">
+<nod>NL706</nod>
+<teideal>Scéalta  Andeas</teideal>
+<bf>1920</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1214">
+<nod>NL707</nod>
+<teideal>Nuabhéarsaíocht 1939-1949</teideal>
+<bf>1950</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1215">
+<nod>NL709</nod>
+<teideal>Saine Uladh : Leabhar comórtha Éigse Loch an Iúir 1981 - 1</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1216">
+<nod>NL710</nod>
+<teideal>Grá in Amhráin na nDaoine, An</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1217">
+<nod>NL711</nod>
+<teideal>Caitheamh Aimsire ar Thórraimh</teideal>
+<bf>1961</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1218">
+<nod>NL714</nod>
+<teideal>Gaelic League Idea, The</teideal>
+<bf>1972</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1219">
+<nod>NL715</nod>
+<teideal>Coimhthigheach, An</teideal>
+<bf>1939</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1220">
+<nod>NL716</nod>
+<teideal>Tonn Tuile</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1221">
+<nod>NL717</nod>
+<teideal>Dé Luain</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1222">
+<nod>NL719</nod>
+<teideal>Ólta le Ceolta</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1223">
+<nod>NL720</nod>
+<teideal>Cuimhní Cinn ar an Oireachtas</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1224">
+<nod>NL721</nod>
+<teideal>Greann na Gaedhilge</teideal>
+<bf>1901</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1225">
+<nod>NL722</nod>
+<teideal>Caoimhghín Ó Cearnaigh</teideal>
+<bf>1912</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1226">
+<nod>NL723</nod>
+<teideal>I dTaobh na hOibre</teideal>
+<bf>1901</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1227">
+<nod>NL724</nod>
+<teideal>Alasdair Mac Colla</teideal>
+<bf>1914</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1228">
+<nod>NL726</nod>
+<teideal>Eureka!</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1229">
+<nod>NL727</nod>
+<teideal>Fan Nóiméad</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1230">
+<nod>NL728</nod>
+<teideal>Míle Ceist</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1231">
+<nod>NL725</nod>
+<teideal>Beatha an Athar Tiobóid Maitiú</teideal>
+<bf>1909</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1232">
+<nod>NL729</nod>
+<teideal>Saoire</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1233">
+<nod>NL730</nod>
+<teideal>Tóraíocht an Mhíshonais - Príomhchoincheapa Freud agus Jung</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1234">
+<nod>NL731</nod>
+<teideal>Béaloideas agus an Litríocht, An</teideal>
+<bf>1977</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1235">
+<nod>NL732</nod>
+<teideal>Eachtraidheacht</teideal>
+<bf>1938</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1236">
+<nod>NL739</nod>
+<teideal>Ar Scaradh Gabhail</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1237">
+<nod>NL740</nod>
+<teideal>Fuath agus Feall</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1238">
+<nod>NL742</nod>
+<teideal>Walking Time agus Dánta Eile</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1239">
+<nod>NL744</nod>
+<teideal>Piarsach sa Bheilg, An</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1240">
+<nod>NL748</nod>
+<teideal>Innealtóireacht agus Teicneolaíocht Bhunúsach - Teicníochtaí agus Dearadh, Ábhair agus Teicneolaíocht</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1241">
+<nod>NL749</nod>
+<teideal>Staitisticí agus Feidhmeanna (An Teastas Sinsearach)</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1242">
+<nod>NL750</nod>
+<teideal>Sráidainmneacha na hÉireann</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1243">
+<nod>NL753</nod>
+<teideal>Gaedhealachas i gCéin</teideal>
+<bf>1933</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1244">
+<nod>NL754</nod>
+<teideal>Teilhard De Chardin I gCuibhrinn Éireannach</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1245">
+<nod>NL755</nod>
+<teideal>Nod don Eolach</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1246">
+<nod>NL757</nod>
+<teideal>Mar Chonnac-sa Éire</teideal>
+<bf>1937</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1247">
+<nod>NL758</nod>
+<teideal>Cnósach Gearr-scéal</teideal>
+<bf>1934</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1248">
+<nod>NL759</nod>
+<teideal>Sean-Eoraip, An t</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1249">
+<nod>NL760</nod>
+<teideal>Ag Lorg mo Loirg</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1250">
+<nod>NL761</nod>
+<teideal>Fíníní Laoise</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1251">
+<nod>NL762</nod>
+<teideal>Neodracht na hÉireann sa Ré Núicléach</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1252">
+<nod>NL763</nod>
+<teideal>Fhealsúnacht agus an tSíceolaíocht, An</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1253">
+<nod>NL764</nod>
+<teideal>Ceatharlach i 1798 - Amharc ar na Staraithe</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1254">
+<nod>NL765</nod>
+<teideal>Beatha dhuine a thoil</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1255">
+<nod>NL766</nod>
+<teideal>Comhad Caoch</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1256">
+<nod>NL767</nod>
+<teideal>Ministir Gaelach Uilliam Mac Néill, An</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1257">
+<nod>NL768</nod>
+<teideal>Ruball na Mickies</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1258">
+<nod>NL769</nod>
+<teideal>Joneen Khordaroy Answers Critics</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1259">
+<nod>NL770</nod>
+<teideal>Ó Pharnell go Queenie</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1260">
+<nod>NL772</nod>
+<teideal>Deich gCinn D'Oidis Ór-Shúlach</teideal>
+<bf>1953</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="1261">
+<nod>NL773</nod>
+<teideal>Pobal na Gaeltachta: a scéal agus a dhán</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1262">
+<nod>NL774</nod>
+<teideal>Ceist na Teanga sa Daonáireamh</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1263">
+<nod>NL776</nod>
+<teideal>Crann os Coill : Aodh Buí Mac Cruitín c. 1680 - 1755, An</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1264">
+<nod>NL777</nod>
+<teideal>Modhaigh: Scéal Pobail - Scéal Eaglaise</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1265">
+<nod>NL778</nod>
+<teideal>Galar na bhFocal agus Scéalta Eile</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1266">
+<nod>NL779</nod>
+<teideal>Tionscnamh Filíochta Nuala Ní Dhomhnaill</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1267">
+<nod>NL780</nod>
+<teideal>Cothú an Dúchais - Aistí in Ómós don Athair Diarmuid Ó Laoghaire S.J.</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1268">
+<nod>NL781</nod>
+<teideal>Úrscéalta Stairiúla na Gaeilge</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1269">
+<nod>NL783</nod>
+<teideal>B'iad a d'adhain an tine bheo</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1270">
+<nod>NL784</nod>
+<teideal>Tomás Bán</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1271">
+<nod>NL785</nod>
+<teideal>Tomás De Bhaldraithe : Cuimhní Cairde</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1272">
+<nod>NL786</nod>
+<teideal>Mac an Easpaig</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1273">
+<nod>NL788</nod>
+<teideal>Daithí Ó hUaithne: Cuimhní Cairde</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1274">
+<nod>NL789</nod>
+<teideal>Esperanza</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1275">
+<nod>NL793</nod>
+<teideal>Comhghuaillithe na Réabhlóide 1913-1916</teideal>
+<bf>1966</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1276">
+<nod>NL794</nod>
+<teideal>Cois Máighe na gCaor</teideal>
+<bf>1965</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1277">
+<nod>NL795</nod>
+<teideal>Ag Scaoileadh Sceoil</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1278">
+<nod>NL796</nod>
+<teideal>Aifric Theas, An</teideal>
+<bf>1947</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1279">
+<nod>NL797</nod>
+<teideal>Aisling Ghéar</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1280">
+<nod>NL798</nod>
+<teideal>Chrosántacht, An</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1281">
+<nod>NL800</nod>
+<teideal>Saothrú an Uisce - Feirmeoireacht éisc, sliogéisc agus algaí</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1282">
+<nod>NL801</nod>
+<teideal>Nuascéalaíocht 1940-1950</teideal>
+<bf>1952</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1283">
+<nod>NL802</nod>
+<teideal>Trasna na Bóinne</teideal>
+<bf>1957</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1284">
+<nod>NL804</nod>
+<teideal>Saoirse gan Só</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1285">
+<nod>NL805</nod>
+<teideal>Lorcán Naomhtha Ua Tuathail</teideal>
+<bf>1929</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1286">
+<nod>NL806</nod>
+<teideal>Nua-léamha: gnéithe den chultúr, stair agus polaitíocht na hÉireann c.1600-c.1900</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1287">
+<nod>NL807</nod>
+<teideal>Aithrí Thoirní</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1288">
+<nod>NL808</nod>
+<teideal>Faoileán na Beatha</teideal>
+<bf>1962</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1289">
+<nod>NL810</nod>
+<teideal>Aeriris</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1290">
+<nod>NL811</nod>
+<teideal>Ar Son na Gaeilge : Conradh Gaeilge 1893-1993.  Stair Sheanchais</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1291">
+<nod>NL812</nod>
+<teideal>Ar Bhruach na Laoi</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1292">
+<nod>NL813</nod>
+<teideal>Ár sa Mhainistir agus Dánta Eile, An t-</teideal>
+<bf>1972</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1293">
+<nod>NL814</nod>
+<teideal>Athair Tadhg, An t-</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1294">
+<nod>NL815</nod>
+<teideal>B'Ait Leo Bean</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1295">
+<nod>NL816</nod>
+<teideal>Scéalta Mhac an Ghobáin</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1296">
+<nod>NL818</nod>
+<teideal>Stailc Ocrais</teideal>
+<bf>1966</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1297">
+<nod>NL819</nod>
+<teideal>Cuairt ar Cymru</teideal>
+<bf>1975</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1298">
+<nod>NL820</nod>
+<teideal>Éadbhard Ó Dufaigh 1840-1868</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1299">
+<nod>NL823</nod>
+<teideal>Crannóg agus Carn</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1300">
+<nod>NL827</nod>
+<teideal>Faoi Chrann Cnó Capaill</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1301">
+<nod>NL829</nod>
+<teideal>Amhras Neimhe</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1302">
+<nod>NL830</nod>
+<teideal>Grá Riabhach, An</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1303">
+<nod>NL831</nod>
+<teideal>Uaimheolaíocht</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1304">
+<nod>NL836</nod>
+<teideal>Manchán ar Seachrán</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1305">
+<nod>NL839</nod>
+<teideal>Bánú Phartraí agus Thuar Mhic Éadaigh</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1306">
+<nod>NL842</nod>
+<teideal>Gearrscéalta an Phiarsaigh (atheagrán)</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1307">
+<nod>NL843</nod>
+<teideal>Náisiún na hÉireann mar a bhí agus mar a tá</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1308">
+<nod>NL846</nod>
+<teideal>Cíoradh - Filíocht agus Prós don Ardteist. (Gnáthleibhéal)</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1309">
+<nod>NL848</nod>
+<teideal>Buntús Gramadaí</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1310">
+<nod>NL850</nod>
+<teideal>Gach orlach de mo chroí : Dréachta</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1311">
+<nod>NL851</nod>
+<teideal>Ghaeilge in Eaglais na hÉireann, An</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1312">
+<nod>NL853</nod>
+<teideal>Máire - Clár Saothair</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1313">
+<nod>NL864</nod>
+<teideal>Stair Dhrámaíocht na Gaeilge 1900-1970</teideal>
+<bf>1993</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1314">
+<nod>NL866</nod>
+<teideal>Epódanna Óráit Q. Horati Flacci Epodon Liber</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1315">
+<nod>NL867</nod>
+<teideal>Nuafhilí 1 (1942-1952)</teideal>
+<bf>1965</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1316">
+<nod>NL868</nod>
+<teideal>Nuafhilí 2 (1953-1963)</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1317">
+<nod>NL869</nod>
+<teideal>Rúraíocht, An</teideal>
+<bf>1956</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1318">
+<nod>NL870</nod>
+<teideal>Ainmhithe Allta Éireann</teideal>
+<bf>1967</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1319">
+<nod>NL871</nod>
+<teideal>Imeall an Bhaile</teideal>
+<bf>1986</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1320">
+<nod>NL872</nod>
+<teideal>Cheimic Orgánach, An - Nótaí don chéad bhliain</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1321">
+<nod>NL875</nod>
+<teideal>Aistí Dána</teideal>
+<bf>1964</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1322">
+<nod>NL876</nod>
+<teideal>Réidhteach na Ceiste</teideal>
+<bf>1951</bf>
+<bl_prl>2015</bl_prl>
+</leabhar>
+<leabhar id="1323">
+<nod>NL877</nod>
+<teideal>Lorcán Ó Muireadhaigh : Sagart agus Scoláire</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1324">
+<nod>NL878</nod>
+<teideal>Adharca Broic</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1325">
+<nod>NL879</nod>
+<teideal>Phurgóid, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1326">
+<nod>NL880</nod>
+<teideal>do Nuala : Foidhne Chrainn</teideal>
+<bf>1984</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1327">
+<nod>NL881</nod>
+<teideal>Lia Nocht, An</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1328">
+<nod>NL883</nod>
+<teideal>Gaethe Gréine II</teideal>
+<bf>1920</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1329">
+<nod>NL884</nod>
+<teideal>Gnéithe den Ghorta</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1330">
+<nod>NL890</nod>
+<teideal>Ainmfhocail Faoi Réir a Chéile</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1331">
+<nod>NL893</nod>
+<teideal>Athbheo</teideal>
+<bf>1955</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1332">
+<nod>NL894</nod>
+<teideal>Athdhánta</teideal>
+<bf>1969</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1333">
+<nod>NL898</nod>
+<teideal>Go Meiriceá Siar</teideal>
+<bf>1979</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1334">
+<nod>NL901</nod>
+<teideal>Lorg na nGael</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1335">
+<nod>NL902</nod>
+<teideal>Teanga, Pobal agus Réigiún</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1336">
+<nod>NL903</nod>
+<teideal>Mo Chara Siúil</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1337">
+<nod>NL906</nod>
+<teideal>Cion go dtí seo, An</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1338">
+<nod>NL907</nod>
+<teideal>Léann Eaglasta in Éirinn 1000-1200, An</teideal>
+<bf>1982</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1339">
+<nod>NL908</nod>
+<teideal>Léann Eaglasta in Éirinn 1200-1900, An</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1340">
+<nod>NL909</nod>
+<teideal>Teanga Thíoramhuil na h-Eireann</teideal>
+<bf>1899</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1341">
+<nod>NL910</nod>
+<teideal>Corcach agus Dánta Eile</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1342">
+<nod>NL911</nod>
+<teideal>Éigse Nua-Ghaedhilge - Cuid a hAon (1600-1700)</teideal>
+<bf>1933</bf>
+<bl_prl>2016</bl_prl>
+</leabhar>
+<leabhar id="1343">
+<nod>NL912</nod>
+<teideal>Láimh-leabhar na Gaedhilge - A Handbook of Modern Irish Part II</teideal>
+<bf>1919</bf>
+<bl_prl>2012</bl_prl>
+</leabhar>
+<leabhar id="1344">
+<nod>NL913</nod>
+<teideal>Súil Uí Dhubhda le hÁrd na Ríogh</teideal>
+<bf>1906</bf>
+<bl_prl>2010</bl_prl>
+</leabhar>
+<leabhar id="1345">
+<nod>NL914</nod>
+<teideal>Cathair Luimnighe, Cuid II.  1691-1941.</teideal>
+<bf>1950</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1346">
+<nod>NL915</nod>
+<teideal>Díolaim Iriseora</teideal>
+<bf>1970</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1347">
+<nod>NL916</nod>
+<teideal>Dónall Óg : taighde ar an amhrán</teideal>
+<bf>1960</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1348">
+<nod>NL917</nod>
+<teideal>Paróiste an Fheirtéirigh agus 1916</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1349">
+<nod>NL918</nod>
+<teideal>Turas go Túinis</teideal>
+<bf>1969</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1350">
+<nod>NL919</nod>
+<teideal>Lá dá bhfaca thú</teideal>
+<bf>1955</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="1351">
+<nod>NL920</nod>
+<teideal>Blascaod Mar a Bhí, An</teideal>
+<bf>1955</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="1352">
+<nod>NL921</nod>
+<teideal>Sraith na Craobhrua V</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1353">
+<nod>NL922</nod>
+<teideal>Sraith na Craobhrua VI</teideal>
+<bf>1974</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1354">
+<nod>NL923</nod>
+<teideal>Duinníneach, An</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1355">
+<nod>NL928</nod>
+<teideal>Leanbh Deireanach an Bhlascaoid</teideal>
+<bf>2013</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="1356">
+<nod>NL930</nod>
+<teideal>Conor Cruise O'Brien agus an Liobrálachas</teideal>
+<bf>1974</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="1357">
+<nod>NL931</nod>
+<teideal>Cosmhuintir</teideal>
+<bf>1975</bf>
+<bl_prl>2017</bl_prl>
+</leabhar>
+<leabhar id="1358">
+<nod>NL932</nod>
+<teideal>Athbheochan na hEabhraise : Ceacht don Ghaeilge?</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1359">
+<nod>NL934</nod>
+<teideal>Cead Aighnis</teideal>
+<bf>1998</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1360">
+<nod>NL935</nod>
+<teideal>Codladh an Ghaiscígh agus Véarsaí Eile</teideal>
+<bf>1973</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1361">
+<nod>NL938</nod>
+<teideal>1798 Faill ar an bhFeart</teideal>
+<bf>1967</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1362">
+<nod>NL939</nod>
+<teideal>Ár bPaidreacha Dúchais</teideal>
+<bf>1975</bf>
+<bl_prl>2019</bl_prl>
+</leabhar>
+<leabhar id="1363">
+<nod>NL942</nod>
+<teideal>Doras Grianlasta, An</teideal>
+<bf>1983</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1364">
+<nod>NL943</nod>
+<teideal>Dúchas agus Dóchas : Scéal na Gaeilge i mBaile Átha Cliath</teideal>
+<bf>1991</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1365">
+<nod>NL944</nod>
+<teideal>Éamann Iognáid Rís</teideal>
+<bf>1996</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1366">
+<nod>NL945</nod>
+<teideal>Eoghan Ó Gramhnaigh</teideal>
+<bf>1968</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1367">
+<nod>NL946</nod>
+<teideal>Eoraip  agus Litríocht na Gaeilge 1600-1650, An</teideal>
+<bf>1987</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1368">
+<nod>NL947</nod>
+<teideal>Fallaing Aonghusa : Saol Amharclainne</teideal>
+<bf>2000</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1369">
+<nod>NL948</nod>
+<teideal>Filíocht Ghaeilge Phádraig Mhic Phiarais</teideal>
+<bf>1981</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1370">
+<nod>NL949</nod>
+<teideal>Gaelscrínte i gCéin</teideal>
+<bf>1960</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1371">
+<nod>NL951</nod>
+<teideal>I mBéal Feirste Cois Cuain</teideal>
+<bf>1968</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1372">
+<nod>NL952</nod>
+<teideal>Ian Paisley agus Tuaisceart Éireann</teideal>
+<bf>1971</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1373">
+<nod>NL955</nod>
+<teideal>Ón Chreagán go Ceann Dubhrann: Aistí le Tomás Ó Fiaich</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1374">
+<nod>NL956</nod>
+<teideal>Orthaí Chosanta sa Chráifeacht Cheilteach</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1375">
+<nod>NL958</nod>
+<teideal>Rí gan Choróin, An</teideal>
+<bf>1984</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1376">
+<nod>NL959</nod>
+<teideal>Scéalaíocht ár Sinsear</teideal>
+<bf>1992</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1377">
+<nod>NL960</nod>
+<teideal>Tart na Córa</teideal>
+<bf>1963</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1378">
+<nod>NL961</nod>
+<teideal>Téid Focal le Gaoith</teideal>
+<bf>1967</bf>
+<bl_prl>2019</bl_prl>
+</leabhar>
+<leabhar id="1379">
+<nod>NL962</nod>
+<teideal>Tomás Ó Fiaich</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1380">
+<nod>NL965</nod>
+<teideal>Cniogaide Cnagaide</teideal>
+<bf>1988</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1381">
+<nod>NL966</nod>
+<teideal>Gnéithe den Chaointeoireacht</teideal>
+<bf>1978</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1382">
+<nod>NL968</nod>
+<teideal>In Aghaidh Farraige agus Feothain: amhráin mholta bád ó Chonamara</teideal>
+<bf>1999</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1383">
+<nod>NL969</nod>
+<teideal>Inbhear Náile (Cluichí Gearra XXXVI)</teideal>
+<bf>1936</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1384">
+<nod>NL971</nod>
+<teideal>Stair na Gaeilge</teideal>
+<bf>1994</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1385">
+<nod>NL972</nod>
+<teideal>De Valera I</teideal>
+<bf>1968</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1386">
+<nod>NL973</nod>
+<teideal>De Valera II</teideal>
+<bf>1970</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+<leabhar id="1387">
+<nod>NL978</nod>
+<teideal>Thar Balla Isteach</teideal>
+<bf>1975</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1388">
+<nod>NL979</nod>
+<teideal>Buachaill Aimsire Pháid Chathail</teideal>
+<bf>0</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1389">
+<nod>NL980</nod>
+<teideal>Ómós do Eoghan Ó Comhraí</teideal>
+<bf>1995</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1390">
+<nod>NL981</nod>
+<teideal>Léargas ar Stair na Linne 2</teideal>
+<bf>1981</bf>
+<bl_prl>2018</bl_prl>
+</leabhar>
+<leabhar id="1391">
+<nod>Prov.Dial.</nod>
+<teideal>Provincialisms and Dialects</teideal>
+<bf>1910</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1392">
+<nod>Sages</nod>
+<teideal>Sages, Saints and Storytellers</teideal>
+<bf>1989</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1393">
+<nod>U002</nod>
+<teideal>Foghraidheacht Ghaedhilge an Tuaiscirt</teideal>
+<bf>1925</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1394">
+<nod>U003</nod>
+<teideal>Coimhréir Ghaedhilg an Tuaiscirt</teideal>
+<bf>1939</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1395">
+<nod>U006</nod>
+<teideal>Sean-Chainnt Theilinn</teideal>
+<bf>1955</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1396">
+<nod>U007</nod>
+<teideal>Gaeilge Theilinn - Foghraidheacht / Gramadach / Téacsanna</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1397">
+<nod>U008</nod>
+<teideal>Ceolta Theilinn</teideal>
+<bf>1973</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1398">
+<nod>U012</nod>
+<teideal>Cnuasacht de Cheoltaí Uladh</teideal>
+<bf>1944</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1399">
+<nod>U016</nod>
+<teideal>Seanfhocail Uladh</teideal>
+<bf>1976</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1400">
+<nod>U017</nod>
+<teideal>Cora Cainnte as Tír Chonaill</teideal>
+<bf>1933</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1401">
+<nod>U018</nod>
+<teideal>Sgéalta Mhuintir Luinigh</teideal>
+<bf>1933</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1402">
+<nod>U019</nod>
+<teideal>Cruach Chonaill</teideal>
+<bf>1913</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1403">
+<nod>U021</nod>
+<teideal>Síscéalta ó Thír Chonaill</teideal>
+<bf>1977</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1404">
+<nod>U029</nod>
+<teideal>Éan an Cheoil - agus Scéalta Eile</teideal>
+<bf>1954</bf>
+<bl_prl>2005</bl_prl>
+</leabhar>
+<leabhar id="1405">
+<nod>U031</nod>
+<teideal>Rotha Mór an tSaoil</teideal>
+<bf>1959</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1406">
+<nod>U032</nod>
+<teideal>Dírbheathaisnéis Néill Mhic Ghiolla Bhrighde</teideal>
+<bf>1939</bf>
+<bl_prl>2006</bl_prl>
+</leabhar>
+<leabhar id="1407">
+<nod>U034</nod>
+<teideal>Maighdean an tSoluis agus Sgéalta Eile I</teideal>
+<bf>1921</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1408">
+<nod>U035</nod>
+<teideal>Oidhche Áirneáil i dTír Chonaill</teideal>
+<bf>1924</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1409">
+<nod>U037</nod>
+<teideal>Bruidhean Chaorthainn (Donegal folk version)</teideal>
+<bf>1911</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1410">
+<nod>U038</nod>
+<teideal>Sgéalaidhe Fearnmhuighe</teideal>
+<bf>1901</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1411">
+<nod>U039</nod>
+<teideal>Sgéalaidhe Óirghiall</teideal>
+<bf>1905</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1412">
+<nod>U043</nod>
+<teideal>Scéalta Johnny Shéimisín</teideal>
+<bf>1948</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1413">
+<nod>U045</nod>
+<teideal>Cú na gCleas agus Scéalta Eile</teideal>
+<bf>1915</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1414">
+<nod>U048</nod>
+<teideal>Uiseog, An</teideal>
+<bf>1905</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1415">
+<nod>U049</nod>
+<teideal>Cruacha - Scéalta agus Seanchas, Na</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1416">
+<nod>U118</nod>
+<teideal>Róise Rua</teideal>
+<bf>1988</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1417">
+<nod>U119</nod>
+<teideal>Ceol na nÉan agus Sgéalta Eile</teideal>
+<bf>1919</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1418">
+<nod>U120</nod>
+<teideal>Uair an Chloig Cois Teallaigh - An Hour by the Hearth</teideal>
+<bf>1985</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1419">
+<nod>U121</nod>
+<teideal>Scian a Caitheadh le Toinn - Scéalta agus amhráin as Inis Eoghain agus Cuimhne ar Ghaeltacht Iorrais</teideal>
+<bf>1990</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1420">
+<nod>U122</nod>
+<teideal>Maighdean an tSoluis agus Sgéalta Eile II</teideal>
+<bf>1921</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1421">
+<nod>U123</nod>
+<teideal>Daoine Beaga agus Daoine Móra - Donegal Folk Tales</teideal>
+<bf>1915</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1422">
+<nod>U126</nod>
+<teideal>Seanchas Ghleann Ghaibhle</teideal>
+<bf>1934</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1423">
+<nod>U127</nod>
+<teideal>Seachrán Chairn tSiadhail</teideal>
+<bf>1904</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1424">
+<nod>U128</nod>
+<teideal>Ceólta Óméith</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1425">
+<nod>U129</nod>
+<teideal>Sgéaltan X Rachreann</teideal>
+<bf>1920</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1426">
+<nod>U130</nod>
+<teideal>Siamsán na Beanna Fada</teideal>
+<bf>1907</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1427">
+<nod>U131</nod>
+<teideal>Scéal Hiúdaí Sheáinín</teideal>
+<bf>1940</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1428">
+<nod>U134</nod>
+<teideal>Dánta Diadha Uladh</teideal>
+<bf>1936</bf>
+<bl_prl>2007</bl_prl>
+</leabhar>
+<leabhar id="1429">
+<nod>U135</nod>
+<teideal>Sgéal Chúchulainn ag Cuan Cárn</teideal>
+<bf>1906</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1430">
+<nod>U136</nod>
+<teideal>Mion-chaint na Midhe agus Uladh</teideal>
+<bf>1905</bf>
+<bl_prl>2008</bl_prl>
+</leabhar>
+<leabhar id="1431">
+<nod>U137</nod>
+<teideal>Amhráin Chúige Uladh.  Cuid a h-aon.</teideal>
+<bf>1927</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1432">
+<nod>U131_NUA</nod>
+<teideal>Scéal Hiúdaí Sheáinín</teideal>
+<bf>1997</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1433">
+<nod>C4</nod>
+<teideal>Dánta Grádha</teideal>
+<bf>1976</bf>
+<bl_prl> </bl_prl>
+</leabhar>
+<leabhar id="1434">
+<nod>LU106</nod>
+<teideal>Gaeltacht Thír Chonaill: Ó Ghleann go Fánaid</teideal>
+<bf>2000</bf>
+<bl_prl>2020</bl_prl>
+</leabhar>
+<leabhar id="1435">
+<nod>LU108</nod>
+<teideal>Nally as Maigh Eo</teideal>
+<bf>1998</bf>
+<bl_prl>2021</bl_prl>
+</leabhar>
+</leabharlann>
