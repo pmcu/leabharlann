@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Próiseáil</th>
     </tr>
     <xsl:for-each select="leabharlann/leabhar">
-    <xsl:if test="bf='2006'">
+    <xsl:if test="bl_prl='2006'">
       <tr>
       <td><xsl:value-of select="nod"/></td>
       <td><xsl:value-of select="teideal"/></td>
