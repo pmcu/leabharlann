@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					<th>Last Name</th>
 					<th>Nick Name</th>
 				</tr>
-				<xsl:for-each select="student">
+				<xsl:for-each select="student/firstname[text()='Tadhg']">
 					
 					
 				<tr>
