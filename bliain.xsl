@@ -24,7 +24,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           <p class="output" id="output1"></p>
       
       
-      </articl>
+      </article>
     <xsl:for-each select="leabharlann/leabhar">
     <xsl:if test="bl_prl='2006'">
       <tr>
