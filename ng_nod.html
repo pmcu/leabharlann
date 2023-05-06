@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="myApp" ng-controller="myCtrl">
+
+<p>Select a leabhar:</p>
+
+<select ng-model="selectedLeabhar">
+<option ng-repeat="x in leabhair" ng-value="{{x}}">{{x.nod}}</option>
+</select>
+<table border='1'>
+<tr><td>{{selectedLeabhar.nod}}</td><td> {{selectedLeabhar.title}}</td></tr>
+</table>
+</div>
+
+<script>
+var app = angular.module('myApp', []);
+app.controller('myCtrl', function($scope) {
+    $scope.leabhair = [
+        {nod : "A006", title : "Céimseata Scoile III agus IV"},
+        {nod : "A007", title : "Céimseata Scoile I agus II"},
+        {nod : "A008", title : "Tús na Céimseatan - Leabhar a hAon"},
+        {nod : "A009", title : "Ealaíontóirí agus Cumadóirí Cáiliúla"},
+        {nod : "A016", title : "Tigheas"},
+        {nod : "A017", title : "Cócaireacht"}
+
+    ];
+});
+</script>
+
+</body>
+</html>
