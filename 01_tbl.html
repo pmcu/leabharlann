@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.8.8/brython.js" integrity="sha256-rA89wPrTJJQFWJaZveKW8jpdmC3t5F9rRkPyBjz8G04=" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.8.8/brython_stdlib.js" integrity="sha256-Gnrw9tIjrsXcZSCh/wos5Jrpn0bNVNFJuNJI9d71TDs=" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="table.css">
+
+    <title>Brython Demo</title>
+</head>
+<body onload="brython()">
+<h2>An Liosta</h2>
+<div id="container"></div>
+<div id="zone1"></div>
+
+<script type="text/python" id="script0">
+from Skins import *
+from browser import document
+from browser import html
+from browser.html import TABLE, TR, TH, TD
+
+#lines = [ ['Morrissey','vocals','bucket'],
+#    ['Johnny Marr','guitar','pointy'],
+#    ['Mike Joyce','the drums','roundy'],
+#    ['Andy Rourke','the bass guitar','brown']
+#    ]
+t = TABLE()
+row = TR()
+row <= html.TH("Man")
+row <= html.TH("Skill")
+row <= html.TH("Hat")
+# Appending the row to the table
+t <= row
+for line in lines:
+    t <= TR(TD(line[0]) 
+    +TD(line[1])
+    +TD(line[2])
+    )
+document['zone1'].text =''
+document['zone1']<= t
+
+</script>
+</body>
+</html>
