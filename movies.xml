@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href ="movies.xsl" type="text/xsl" ?>
+<collection>
+    <movie>
+        <title>Happy Gulmore</title>
+        <year>1996</year>
+        <genre>Comedy</genre>
+    </movie>
+
+    <movie>
+        <title>Range</title>
+        <year>2011</year>
+        <genre>Animated</genre>
+    </movie>
+    <movie>
+        <title>Three Kings</title>
+        <year>1999</year>
+        <genre>Action</genre>
+    </movie>
+    <movie>
+        <title>Soap Day</title>
+        <year>1954</year>
+        <genre>Mystery</genre>
+    </movie>
+</collection>
