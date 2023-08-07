@@ -5,11 +5,20 @@
     <xsl:template match="/collection">
         <html>
             <body>
+                <table border="1">
+                    <tr>
+                        <th>Title</th>
+                        <th>Genre</th>
+                        <th>Year</th>
+                    </tr>
                 <xsl:for-each select="movie">
-                        <xsl:value-of select="title" /> <br />
-                        <xsl:value-of select="year" /> <br />
-                        <xsl:value-of select="genre" /> <br /> 
+                    <tr>
+                        <td><xsl:value-of select="title" /></td>
+                        <td><xsl:value-of select="year" /></td> 
+                        <td><xsl:value-of select="genre" /></td> 
+                    </tr>
                     </xsl:for-each>
+                </table>
             </body>
         </html>
 
