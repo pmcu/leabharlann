@@ -12,12 +12,12 @@
                     
                 <xsl:for-each select="focal">
                     <tr><th style="background-color:#ffffcc;">FOCAL</th></tr>
-                    <tr>
+                    <tr style="background-color:#e6ffcc;">
                         <td><b>focal: </b><xsl:value-of select="ainm" /></td></tr>
-                    <tr>
+                    <tr style="background-color:#ccf2ff;">
                         <td><b>roinn chainte: </b><xsl:value-of select="roinn" /></td>
                     </tr>
-                    <tr>
+                    <tr style="background-color:#d9ccff;">
                         <td><b>sainmhíniú: </b><xsl:value-of select="corp" /></td> 
                     </tr>
                     </xsl:for-each>
