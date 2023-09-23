@@ -6,14 +6,9 @@
         <html>
             <body>
                 <table border="1">
-                    <tr>
-                    <th>Focal</th>
-                    </tr>
-                    <tr><th>Roinn chainte</th>
-                    </tr>
-                    <tr><th>Sainmhíniú</th>
-                    </tr>
+                    
                 <xsl:for-each select="focal">
+                    <tr><th>FOCAL</th></tr>
                     <tr>
                         <td><xsl:value-of select="ainm" /></td></tr>
                     <tr>
