@@ -10,7 +10,7 @@
                 <xsl:for-each select="focal">
                     <tr><th>FOCAL</th></tr>
                     <tr>
-                        <td>focal:<xsl: value-of select="ainm" /></td></tr>
+                        <td>focal: <xsl:value-of select="ainm" /></td></tr>
                     <tr>
                         <td>roinn chainte: <xsl:value-of select="roinn" /></td>
                     </tr>
