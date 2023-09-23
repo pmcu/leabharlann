@@ -4,6 +4,9 @@
 
     <xsl:template match="/collection">
         <html>
+            <head>
+                <link rel="stylesheet" href="table.css"/>
+            </head>
             <body>
                 <table border="1" >
                     
