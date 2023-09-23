@@ -7,14 +7,19 @@
             <body>
                 <table border="1">
                     <tr>
-                        <th>Focal</th>
-                        <th>Roinn chainte</th>
-                        <th>Sainmhíniú</th>
+                    <th>Focal</th>
+                    </tr>
+                    <tr><th>Roinn chainte</th>
+                    </tr>
+                    <tr><th>Sainmhíniú</th>
                     </tr>
                 <xsl:for-each select="focal">
                     <tr>
-                        <td><xsl:value-of select="ainm" /></td>
-                        <td><xsl:value-of select="roinn" /></td> 
+                        <td><xsl:value-of select="ainm" /></td></tr>
+                    <tr>
+                        <td><xsl:value-of select="roinn" /></td>
+                    </tr>
+                    <tr>
                         <td><xsl:value-of select="corp" /></td> 
                     </tr>
                     </xsl:for-each>
