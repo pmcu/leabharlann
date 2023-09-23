@@ -5,7 +5,7 @@
     <xsl:template match="/collection">
         <html>
             <body>
-                <table border="1">
+                <table border="1" bgcolor="#9acd32">
                     
                 <xsl:for-each select="focal">
                     <tr><th>FOCAL</th></tr>
