@@ -9,13 +9,13 @@
                     <tr>
                         <th>Focal</th>
                         <th>Roinn chainte</th>
-                        <th>sainmhíniú</th>
+                        <th>Sainmhíniú</th>
                     </tr>
-                <xsl:for-each select="movie">
+                <xsl:for-each select="focal">
                     <tr>
-                        <td><xsl:value-of select="title" /></td>
-                        <td><xsl:value-of select="year" /></td> 
-                        <td><xsl:value-of select="genre" /></td> 
+                        <td><xsl:value-of select="ainm" /></td>
+                        <td><xsl:value-of select="roinn" /></td> 
+                        <td><xsl:value-of select="corp" /></td> 
                     </tr>
                     </xsl:for-each>
                 </table>
