@@ -5,11 +5,11 @@
     <xsl:template match="/collection">
         <html>
             <body>
-                <table border="1" bgcolor="#9acd32">
+                <table border="1" >
                     
                 <xsl:for-each select="focal">
                     <tr><th>FOCAL</th></tr>
-                    <tr>
+                    <tr bgcolor="#9acd32">
                         <td><b>focal: </b><xsl:value-of select="ainm" /></td></tr>
                     <tr>
                         <td><b>roinn chainte: </b><xsl:value-of select="roinn" /></td>
