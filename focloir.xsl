@@ -7,9 +7,9 @@
             <body>
                 <table border="1">
                     <tr>
-                        <th>Title</th>
-                        <th>Genre</th>
-                        <th>Year</th>
+                        <th>Focal</th>
+                        <th>Roinn chainte</th>
+                        <th>sainmhíniú</th>
                     </tr>
                 <xsl:for-each select="movie">
                     <tr>
