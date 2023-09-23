@@ -10,7 +10,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <body>
   <h2>Leabhar</h2>
   <table border="1">
-    <tr bgcolor="#9acd32">
+    <tr >
       <th>Nod</th>
       <th>Teideal</th>
       <th>Próiseáil</th>
