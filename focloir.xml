@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet href ="movies.xsl" type="text/xsl" ?>
+<?xml-stylesheet href ="focloir.xsl" type="text/xsl" ?>
 <collection>
-    <movie>
-        <title>Happy Gulmore</title>
-        <year>1996</year>
-        <genre>Comedy</genre>
-    </movie>
+    <focal>
+        <ainm>abairt</ainm>
+        <roinn>a. br.</roinn>
+        <corp>Ag abairt faoistin 33, ag déanamh faoistine</corp>
+    </focal>
 
-    <movie>
-        <title>Range</title>
-        <year>2011</year>
-        <genre>Animated</genre>
-    </movie>
-    <movie>
-        <title>Three Kings</title>
-        <year>1999</year>
-        <genre>Action</genre>
-    </movie>
-    <movie>
-        <title>Soap Day</title>
-        <year>1954</year>
-        <genre>Mystery</genre>
-    </movie>
+    <focal>
+        <ainm>ábalta</ainm>
+        <roinn>aid.</roinn>
+        <corp>1. Cliste, glic. Nach shé atá ~, air fhaitíos go mbeadh air éirí moch ...
+        27,265. Bhí sé ceannathóir ~ agus stuama agus d'iarr sé fairsinge mhaith air Johnny
+            27.868. D'imir sé an bob orm chomh maith leis a mbabhta roimhe sin ...
+            Rug mé na dhiaidh sin air dá ábalta dá raibh sé. 27.1259. 2. Láidir. Sí an chiotóg
+            atá ~ a'msa 19.
+        </corp>
+    </focal>
+    <focal>
+        <ainm>ábaltacht</ainm>
+        <roinn>b.</roinn>
+        <corp>Gliceas, clisteacht. Bhí sé in an a' tinneas
+        droma a ligeann 'na thinneas bréige air le neart ~ 27.375. 
+        Le neart ~ 20.
+        </corp>
+    </focal>
+    <focal>
+        <ainm>ábhars</ainm>
+        <roinn>iol.</roinn>
+        <corp>Spraoi, cleasaíocht. Níl sé ar an obair sin ach 
+        le haghaidh ~ 19. Nach le ~ a thosaíos lead óg ag 
+            breith ar bhean 19. Tá an iomarca ~ liug a'd 19. Lán le ~ 19.
+        </corp>
+    </focal>
 </collection>
