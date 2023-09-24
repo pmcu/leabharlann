@@ -11,7 +11,7 @@
                 <table border="1" >
                     
                 <xsl:for-each select="focal">
-                    <tr><th style="background-color:#666666;color:#ffffff;">* * * * * * *</th></tr>
+                    <tr><th style="background-color:#666666;color:#ffffff;text-align: center;">* * * * * * *</th></tr>
                     <tr style="background-color:#e6e6e6;">
                         <td><b><xsl:value-of select="ainm" /></b></td></tr>
                     <tr style="background-color#f2f2f2;">
