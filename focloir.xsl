@@ -13,9 +13,9 @@
                 <xsl:for-each select="focal">
                     <tr><th style="background-color:#666666;color:#ffffff;">* * * * * * *</th></tr>
                     <tr style="background-color:#e6e6e6;">
-                        <td><b>focal: </b><xsl:value-of select="ainm" /></td></tr>
+                        <td><b><xsl:value-of select="ainm" /></b></td></tr>
                     <tr style="background-color#f2f2f2;">
-                        <td><b>roinn chainte: </b><xsl:value-of select="roinn" /></td>
+                        <td><xsl:value-of select="roinn" /></td>
                     </tr>
                     <tr style="background-color:#f0f0f5;">
                         <td><xsl:value-of select="corp" /></td> 
