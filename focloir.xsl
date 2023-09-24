@@ -17,8 +17,8 @@
                     <tr style="background-color:#ccf2ff;">
                         <td><b>roinn chainte: </b><xsl:value-of select="roinn" /></td>
                     </tr>
-                    <tr style="background-color:#d9ccff;">
-                        <td><b>sainmhíniú: </b><xsl:value-of select="corp" /></td> 
+                    <tr style="background-color:#f0f0f5;">
+                        <td><xsl:value-of select="corp" /></td> 
                     </tr>
                     </xsl:for-each>
                 </table>
