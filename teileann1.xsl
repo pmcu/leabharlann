@@ -8,6 +8,7 @@
                 <link rel="stylesheet" href="table.css"/>
             </head>
             <body>
+                <h1>Cnuasach Focal as Teileann</h1>
                 <table border="1" >
                     
                 <xsl:for-each select="focal">
