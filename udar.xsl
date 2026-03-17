@@ -32,8 +32,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       </div>
     </div>
   </nav>
-  <h2>Leabhar</h2>
-    <div class="container py-5">
+<div class="container py-5">
+  <h2>Leabhar</h2>   
   <table class="table">
     <tr bgcolor="#9acd32">
       <th>Nod</th>
