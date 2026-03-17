@@ -33,6 +33,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </div>
   </nav>
   <h2>Leabhar</h2>
+    <div class="container py-5">
   <table class="table">
     <tr bgcolor="#9acd32">
       <th>Nod</th>
@@ -47,6 +48,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
     </xsl:for-each>
   </table>
+    </div>
   </body>
   </html>
 </xsl:template>
