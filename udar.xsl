@@ -33,7 +33,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </div>
   </nav>
   <h2>Leabhar</h2>
-  <table border="1">
+  <table class="table">
     <tr bgcolor="#9acd32">
       <th>Nod</th>
       <th>Teideal</th>
